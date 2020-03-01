@@ -1,0 +1,21 @@
+4	Boros Reckoner
+4	Burning-Tree Emissary
+2	Char
+4	Clan Guildmage
+4	Domri Rade
+2	Ghor-Clan Rampager
+4	Pelt Collector
+2	Rumbling Slum
+4	Skarrg Guildmage
+4	Burning-Tree Shaman
+4	Zhur-Taa Goblin
+4	Stomping Ground
+4	Pillar of the Paruns
+6	Mountain
+8	Forest
+	
+3	Cindervines
+4	Gruul Turf
+4	Hydroid Krasis
+2	Lava Coil
+2	Rakdos's Return

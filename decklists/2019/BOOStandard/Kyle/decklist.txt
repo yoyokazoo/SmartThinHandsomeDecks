@@ -1,0 +1,19 @@
+4	Llanowar Elves
+4	Arbor Elf
+2	Quirion Ranger
+4	Elvish Visionary
+4	Multani's Acolyte
+2	Eladamri, Lord of Leaves
+4	Elvish Archdruid
+3	Elvish Champion
+2	Stampeding Wildebeests
+3	Deranged Hermit
+4	Overrun
+3	Vanquisher's Banner
+21	Forest
+	
+Sideboard:
+4	Carnage Tyrant
+4	Lifeforce
+4	Ground Seal
+3	Acidic Slime

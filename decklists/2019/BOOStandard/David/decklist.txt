@@ -1,0 +1,20 @@
+4	Vicious Conquistador
+4	Sarcomancy
+3	Skulduggery
+1	Reanimate
+4	Fathom Fleet Captain
+4	Kitesail Freebooter
+4	Bad Moon
+4	Walk the Plank
+4	Ruin Raider
+1	Fell Flagship
+3	Liliana, the Last Hope
+4	Wasteland
+20	Swamp
+	
+4	Jinxed Idol
+3	Diabolic Edict
+1	Liliana, the Last Hope
+3	Collective Brutality
+3	Perish
+1	Cursed Scroll

@@ -1,0 +1,58 @@
+	Memnite
+	Firefright Mage
+	Flameblade Adept
+	Foundry Street Denizen
+	Frenzied Goblin
+	Goblin Bushwhacker
+	Goblin Gaveleer
+	Goblin Guide
+	Kolaghan Stormsinger
+	Lightning Berserker
+	Soul-Scar Mage
+	Spikeshot Elder
+	Zurgo Bellstriker
+	Brute Force
+	Burst Lightning
+	Consuming Fervor
+	Galvanic Blast
+	Lightning Bolt
+	Panic Spellbomb
+	Skullclamp
+	Trusty Machete
+	Bloodrage Brawler
+	Ember Hauler
+	Goblin Shortcutter
+	Ire Shaman
+	Keldon Marauders
+	Phyrexian Revoker
+	Warren Instigator
+	Arc Trail
+	Lightning Strike
+	Ahn-Crop Crasher
+	Goblin Chieftain
+	Goblin Rabblemaster
+	Simian Spirit Guide
+	Sword of Fire and Ice
+	Sword of Light and Shadow
+	Stoke the Flames
+	Teetering Peaks
+	Sunscorched Desert
+	Blinkmoth Nexus
+19	Mountain
+	
+	Combust
+	Rending Volley
+	Fury Charm
+	Dead // Gone
+	Forge Devil
+	By Force
+	Roast
+	Stingscourger
+	Manic Vandal
+	Pulse of the Forge
+	Sulfur Elemental
+	Punishing Fire
+	Blood Knight
+	Radiant Fountain
+	Dragon's Claw
+Hazoret the Fervent

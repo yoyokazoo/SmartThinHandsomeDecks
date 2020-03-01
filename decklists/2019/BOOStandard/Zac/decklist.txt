@@ -1,0 +1,25 @@
+4	Llanowar Elves
+4	Arbor Elf
+4	Wild Growth
+4	Primordial Hydra
+3	Sylvan Library
+4	Ground Seal
+4	Elvish Archdruid
+4	Acidic Slime
+2	Garruk, Primal Hunter
+3	Carnage Tyrant
+14	Forest
+4	Wasteland
+4	Ancient Tomb
+2	Treasure Map
+	
+2	Treasure Map
+1	Deathgorge Scavenger
+3	Thragtusk
+1	Natural Order
+1	Elderscale Wurm
+1	Defense of the Heart
+2	Sorcerous Spyglass
+1	Recycle
+1	Ring of Gix
+2	City of Solitude

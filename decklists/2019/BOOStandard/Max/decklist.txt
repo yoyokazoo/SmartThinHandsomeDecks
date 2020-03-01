@@ -1,0 +1,21 @@
+4	Chromatic Sphere
+4	Emrakul, the Promised End
+4	Corpse Dance
+3	Intuition
+4	Impulse
+4	Pox
+3	Collective Brutality
+4	Chart a Course
+4	Duress
+3	Walk the Plank
+4	City of Brass
+4	Underground River
+4	Drowned Catacomb
+10	Swamp
+1	Salt Marsh
+	
+3	Arguel's Blood Fast
+4	Dread of Night
+4	Perish
+1	Collective Brutality
+3	Sorcerous Spyglass

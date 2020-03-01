@@ -1,0 +1,22 @@
+4	Pack Rat
+4	Dark Confidant
+4	Nightveil Specter
+3	Sin Collector
+4	Remand
+4	Assassin's Trophy
+3	Warped Physique
+1	Ultimate Price
+4	Spell Snare
+4	Thought Erasure
+1	Aetherling
+4	Watery Grave
+10	Island
+9	Swamp
+1	Dimir Guildgate
+	
+4	Knight of Autumn
+3	Ribbons of Night
+2	Jace, Architect of Thought
+2	Dispel
+3	Last Gasp
+1	Aetherling

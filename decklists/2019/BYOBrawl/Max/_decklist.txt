@@ -1,0 +1,62 @@
+	Mox Amber
+	Metallic Mimic
+	Conjurer's Bauble
+	Paradise Mantle
+	Wayfarer's Bauble
+	Renegade Map
+	Chromatic Sphere
+	Welding Jar
+	Chrome Mox
+	Mox Opal
+	Skullclamp
+	Sylvok Lifestaff
+	Aether Spellbomb
+	Pithing Needle
+	Chromatic Star
+	Scrabbling Claws
+	Mind Stone
+	Vedalken Shackles
+	Trinket Mage
+	Frogmite
+	Ornithopter
+	Memnite
+	Riddlesmith
+	Vedalken Engineer
+	Arcbound Ravager
+	Walking Ballista
+	Myr Retriever
+	Steel Wall
+	Artificer's Intuition
+	The Antiquities War
+	Opt
+	Metallic Rebuke
+	Whir of Invention
+	Thirst for Knowledge
+	Peek
+	Karn, Scion of Urza
+	Serum Visions
+	Reverse Engineer
+	Thoughtcast
+	Reshape
+	Zhalfirin Void
+	Blinkmoth Nexus
+	Seat of the Synod
+	Darksteel Citadel
+15	Island
+	
+	Sword of Light and Shadow
+	Navigator's Compass
+	Sword of Fire and Ice
+	Etched Champion
+	Zahid, Djinn of the Lamp
+	Vedalken Archmage
+	Hope of Ghirapur
+	Carry Away
+	Flashfreeze
+	Annul
+	Stoic Rebuttal
+	Negate
+	Turn Aside
+	Hurkyl's Recall
+	Echoing Truth
+Sai, Master Thopterist

@@ -1,0 +1,23 @@
+4	Gutterbones
+4	Footlight Fiend
+4	Dark Confidant
+4	Hero of Precinct One
+4	Pitiless Pontiff
+4	Judith, the Scourge Diva
+2	Midnight Reaper
+2	Teysa, Orzhov Scion
+4	Mortify
+4	Spark Trooper
+1	Obzedat, Ghost Council
+4	Godless Shrine
+4	Orzhov Guildgate
+2	Guildmages' Forum
+4	Plains
+9	Swamp
+	
+4	Dead Weight
+2	Pack Rat
+2	Pithing Needle
+4	Kaya's Wrath
+2	Blood Baron of Vizkopa
+1	Ethereal Absolution

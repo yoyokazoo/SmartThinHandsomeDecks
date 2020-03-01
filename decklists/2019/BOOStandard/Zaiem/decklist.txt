@@ -1,0 +1,28 @@
+4	Animate Dead
+4	Chart a Course
+4	Collective Brutality
+4	Duress
+4	Frantic Search
+4	Intuition
+4	Necromancy
+4	Reanimate
+2	Portent
+1	Reya Dawnbringer
+1	Zetalpa, Primal Dawn
+1	Karmic Guide
+1	Emrakul, the Promised End
+1	Elderscale Wurm
+4	Lotus Petal
+4	Underground River
+4	City of Brass
+4	Ancient Tomb
+4	Drowned Catacomb
+1	Island
+	
+1	Elderscale Wurm
+4	Gloom
+2	Living Death
+1	Stormtide Leviathan
+2	Thragtusk
+1	Unsummon
+4	Vile Rebirth

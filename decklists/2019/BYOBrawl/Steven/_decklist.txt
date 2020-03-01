@@ -1,0 +1,73 @@
+	Elves of Deep Shadow
+	Birds of Paradise
+	Llanowar Elves
+	Viscera Seer
+	Elvish Mystic
+	Anafenza, Kin-Tree Spirit
+	Winding Constrictor
+	Fauna Shaman
+	Dark Confidant
+	Walking Ballista
+	Phyrexian Revoker
+	Metallic Mimic
+	Devoted Druid
+	Sylvan Ranger
+	Kitchen Finks
+	Rishkar, Peema Renegade
+	Den Protector
+	Renegade Rallier
+	Reclamation Sage
+	Civic Wayfinder
+	Siege Rhino
+	Acidic Slime
+	Sidisi, Undead Vizier
+	Sun Titan
+	Mikaeus, the Unhallowed
+	Hardened Scales
+	Dromoka's Command
+	Doom Blade
+	Putrefy
+	Lingering Souls
+	Garruk Wildspeaker
+	Ajani Goldmane
+	Sorin, Lord of Innistrad
+	Glare of Subdual
+	Doubling Season
+	Chord of Calling
+	Sandsteppe Citadel
+	Temple Garden
+	Overgrown Tomb
+	Bloodstained Mire
+	Flooded Strand
+	Wooded Foothills
+	Windswept Heath
+	Polluted Delta
+	Caves of Koilos
+	Llanowar Wastes
+	Wooded Bastion
+	Sunpetal Grove
+	Reflecting Pool
+	Golgari Rot Farm
+	Selesnya Sanctuary
+	Evolving Wilds
+	Vitu-Ghazi, the City-Tree
+	Swamp
+	Plains
+4	Forest
+	
+	Duress
+	Fatal Push
+	Selesnya Guildmage
+	Ultimate Price
+	Trophy Hunter
+	Abzan Charm
+	Congregation at Dawn
+	Hornet Nest
+	Faith's Fetters
+	Nullmage Shepherd
+	Loxodon Hierarch
+	Obstinate Baloth
+	Collected Company
+	Baneslayer Angel
+	Grave Titan
+Anafenza, the Foremost

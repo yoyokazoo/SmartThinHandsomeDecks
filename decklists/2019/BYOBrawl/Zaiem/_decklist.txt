@@ -1,0 +1,73 @@
+	Assassin's Trophy
+	Beast Within
+	Collective Brutality
+	Dark Salvation
+	Diabolic Tutor
+	Dig Through Time
+	Disdainful Stroke
+	Dismember
+	Doom Blade
+	Explore
+	Frost Titan
+	Gitaxian Probe
+	Grave Titan
+	Jace, the Mind Sculptor
+	Karn Liberated
+	Mana Leak
+	Mental Misstep
+	Merciless Executioner
+	Merfolk Looter
+	Mind Control
+	Mission Briefing
+	Murder
+	Murderous Cut
+	Negate
+	Opt
+	Phantasmal Image
+	Ponder
+	Price of Fame
+	Radical Idea
+	Rampant Growth
+	Reality Shift
+	Solemn Simulacrum
+	Syncopate
+	Treasure Cruise
+	Unwind
+	Bloodstained Mire
+	Bojuka Bog
+	Creeping Tar Pit
+	Dismal Backwater
+	Drowned Catacomb
+	Flooded Strand
+	Forest
+	Halimar Depths
+	Hinterland Harbor
+4	Island
+	Jungle Hollow
+	Khalni Garden
+	Opulent Palace
+	Overgrown Tomb
+	Polluted Delta
+	Swamp
+	Thornwood Falls
+	Watery Grave
+	Windswept Heath
+	Wooded Foothills
+	Woodland Cemetery
+	
+	Autumn's Veil
+	Batterskull
+	Clever Impersonator
+	Crux of Fate
+	Deathmark
+	Dispel
+	Feed the Clan
+	Flashfreeze
+	Imprisoned in the Moon
+	Life's Finale
+	Liliana, the Last Hope
+	Nature's Claim
+	Spellskite
+	Supplant Form
+	Temporal Trespass
+Tasigur, the Golden Fang

@@ -1,0 +1,32 @@
+Maindeck:
+2	Tasigur, the Golden Fang
+1	Ugin, the Spirit Dragon
+4	Fact or Fiction
+4	Force Spike
+4	Counterspell
+4	Daze
+4	Mana Leak
+2	Crux of Fate
+1	Agony Warp
+1	Recoil
+1	Probe
+1	Undermine
+1	Ruinous Path
+1	Dominate
+1	Foil
+1	Rethink
+1	Rewind
+4	Sunken Hollow
+1	Karakas
+1	Crumbling Necropolis
+1	Dust Bowl
+16	Island
+3	Swamp
+Sideboard:
+4	Temporal Adept
+2	Disrupt
+2	Crux of Fate
+2	Infest
+2	Confiscate
+2	Misdirection
+1	Massacre

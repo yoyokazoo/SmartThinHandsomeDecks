@@ -1,0 +1,68 @@
+	Bomat Courier
+	Cloudfin Raptor
+	Experiment One
+	Llanowar Elves
+	Birds of Paradise
+	Arbor Elf
+	Gyre Sage
+	Burning-Tree Emissary
+	Flinthoof Boar
+	Lightning Mauler
+	Smuggler's Copter
+	Heart of Kiran
+	Domri Rade
+	Temur Ascendancy
+	Temur Charm
+	Savage Knuckleblade
+	Slaughterhorn
+	Pia Nalaar
+	Combat Celebrant
+	Troll Ascetic
+	Chandra, Torch of Defiance
+	Jace, the Mind Sculptor
+	Ghor-Clan Rampager
+	Sarkhan, the Dragonspeaker
+	Verdurous Gearhulk
+	Wolfir Silverheart
+	Glorybringer
+	Blossoming Defense
+	Shock
+	Incinerate
+	Searing Spear
+	Groundswell
+	Flames of the Firebrand
+	Rancor
+	Pillar of Flame
+	Shivan Reef
+	Yavimaya Coast
+	Karplusan Forest
+	Spirebluff Canal
+	Botanical Sanctum
+	Wooded Foothills
+	Frontier Bivouac
+	Breeding Pool
+	Stomping Ground
+	Raging Ravine
+	Rootbound Crag
+	Flooded Strand
+	Windswept Heath
+	Bloodstained Mire
+	Island
+5	Forest
+4	Mountain
+	Surrak Dragonclaw
+	Sudden Impact
+	Manabarbs
+	Thragtusk
+	Creeping Mold
+	Mana Leak
+	Negate
+	Bonfire of the Damned
+	Manglehorn
+	Harsh Mentor
+	Naturalize
+	Pithing Needle
+	Glorious End
+	Insult // Injury
+	Searing Blaze
+	Hazoret the Fervent

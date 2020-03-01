@@ -1,0 +1,26 @@
+4	Birds of Paradise
+4	Pelt Collector
+4	Emmara, Soul of the Accord
+4	Dark Confidant
+1	Lotleth Troll
+1	Incubation Druid
+4	Plaguecrafter
+2	Nullhide Ferox
+1	Underrealm Lich
+4	Abrupt Decay
+3	Putrefy
+3	Glare of Subdual
+2	Vraska the Unseen
+4	Overgrown Tomb
+9	Forest
+9	Swamp
+1	Golgari Rot Farm
+	
+Sideboard
+4	Golgari Charm
+2	Nullhide Ferox
+2	Naturalize
+2	Incubation Druid
+1	Glare of Subdual
+1	Putrefy
+1	Vraska the Unseen

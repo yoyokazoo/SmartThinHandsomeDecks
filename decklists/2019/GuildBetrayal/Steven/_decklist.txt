@@ -1,0 +1,31 @@
+2	Assemble the Legion
+3	Dawn of Hope
+4	Faith's Fetters
+4	Lightning Helix
+4	Warleader's Helix
+2	Searing Meditation
+4	Izzet Charm
+4	Firemane Angel
+4	Supreme Verdict
+4	Boros Signet
+1	Wear // Tear
+1	Sunforger
+4	Sacred Foundry
+4	Boros Guildgate
+3	Plaza of Harmony
+2	Gateway Plaza
+4	Boros Garrison
+2	Maze's End
+2	Mountain
+2	Plains
+	
+2	Pithing Needle
+2	Lava Coil
+2	Renounce the Guilds
+2	Condemn
+2	Seal of Fire
+1	Wear // Tear
+1	Brightflame
+1	Searing Meditation
+1	Crush Contraband
+1	Assemble the Legion

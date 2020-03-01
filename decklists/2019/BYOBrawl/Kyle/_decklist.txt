@@ -1,0 +1,57 @@
+	Ponder
+	Negate
+	Jace Beleren
+	Cancel
+	Coalition Relic
+	Venser, Shaper Savant
+	Essence Scatter
+	Dismember
+	Mind Control
+	Murder
+	Yahenni's Expertise
+	Dissolve
+	Duress
+	Doom Blade
+	Liliana Vess
+	Hero's Downfall
+	Thoughtseize
+	Read the Bones
+	Pithing Needle
+	Gainsay
+	Fatal Push
+	Mass Manipulation
+	Pteramander
+	Quench
+	Precognitive Perception
+	Karn Liberated
+	Spellskite
+	Gitaxian Probe
+	Mental Misstep
+	Delver of Secrets
+	Snapcaster Mage
+	Liliana of the Veil
+	Slaughter Pact
+	Drowned Catacomb
+	Temple of Deceit
+	River of Tears
+	Nephalia Drownyard
+12	Island
+10	Swamp
+	Ashiok, Nightmare Weaver
+
+Sideboard:
+	Swan Song
+	Drill Bit
+	Hex Parasite
+	Despise
+	Bitter Ordeal
+	Epochrasite
+	Tolaria West
+	Oath of Liliana
+	Liliana, the Last Hope
+	Elder Deep-Fiend
+	Turn Aside
+	Mnemonic Wall
+	Take Possession
+	Dark Betrayal
+	Victim of Night

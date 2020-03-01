@@ -1,0 +1,26 @@
+2	Condemn
+2	Pteramander
+4	Remand
+3	Orzhov Charm
+3	Azorius Charm
+4	Compulsive Research
+2	Detention Sphere
+4	Absorb
+4	Deafening Clarion
+2	Jace, Architect of Thought
+4	Sphinx's Revelation
+1	Azorius Chancery
+4	Hallowed Fountain
+4	Azorius Guildgate
+6	Plains
+11	Island
+	
+1	Azorius Chancery
+2	Spell Snare
+2	Dispel
+1	Quench
+1	Condemn
+2	Grand Arbiter Augustin IV
+3	Faith's Fetters
+1	Detention Sphere
+2	Angel of Serenity

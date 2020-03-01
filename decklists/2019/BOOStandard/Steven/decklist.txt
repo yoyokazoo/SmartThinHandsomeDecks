@@ -1,0 +1,28 @@
+4	Llanowar Elves
+4	Birds of Paradise
+4	Quirion Ranger
+2	Arbor Elf
+3	Skyshroud Ranger
+4	Elvish Visionary
+4	Elvish Archdruid
+4	Elvish Champion
+2	Natural Order
+2	Overrun
+1	Deranged Hermit
+1	Verdant Force
+4	Tradewind Rider
+4	Lotus Petal
+4	City of Brass
+13	Forest
+	
+2	Perish
+2	Ground Seal
+2	Sentinel Totem
+2	Lifeforce
+1	Pyroblast
+1	Simoon
+1	Spell Pierce
+1	Carnage Tyrant
+1	Acidic Slime
+1	Negate
+1	Thran Lens

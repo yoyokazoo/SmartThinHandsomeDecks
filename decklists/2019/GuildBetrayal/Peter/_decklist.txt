@@ -1,0 +1,24 @@
+4	Birds of Paradise
+4	Judge's Familiar
+4	Loxodon Smiter
+3	Pelt Collector
+4	Tajic, Legion's Edge
+4	Voice of Resurgence
+4	Call of the Conclave
+2	Civic Saber
+3	Advent of the Wurm
+3	Selesnya Charm
+1	Rootborn Defenses
+4	Temple Garden
+1	Selesnya Guildgate
+1	Selesnya Sanctuary
+8	Plains
+10	Forest
+	
+1	Aerial Predation
+2	Carven Caryatid
+2	Pithing Needle
+4	Sundering Growth
+2	Trostani Discordant
+2	Trostani, Selesnya's Voice
+2	Unflinching Courage

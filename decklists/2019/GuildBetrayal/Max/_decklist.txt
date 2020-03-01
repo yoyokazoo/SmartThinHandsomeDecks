@@ -1,0 +1,30 @@
+4	Birds of Paradise
+4	Elves of Deep Shadow
+4	Spell Snare
+4	Growth-Chamber Guardian
+4	Remand
+4	Dreadbore
+4	Rakdos Augermage
+2	Plaxcaster Frogling
+3	Jace, Architect of Thought
+3	Biogenic Ooze
+2	Repeal
+2	Prime Speaker Zegana
+4	Breeding Pool
+2	Simic Growth Chamber
+1	Simic Guildgate
+2	Island
+11	Forest
+	
+1	Trygon Predator
+2	Aetherling
+2	Carven Caryatid
+1	Biogenic Ooze
+1	Jace, Architect of Thought
+2	Voidslime
+1	Dispel
+1	Pithing Needle
+1	Trophy Hunter
+1	Doubling Season
+1	Naturalize
+1	Indrik Stomphowler

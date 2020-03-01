@@ -1,0 +1,41 @@
+2	Shock
+1	Renegade Map
+1	Alley Evasion
+1	Veteran Motorist
+1	Harnessed Lightning
+1	Prophetic Prism
+1	Cathartic Reunion
+1	Gearshift Ace
+1	Thriving Grubs
+2	Aether Chaser
+1	Countless Gears Renegade
+1	Audacious Infiltrator
+1	Saheeli Rai
+2	Renegade Wheelsmith
+2	Aethersphere Harvester
+1	Caught in the Brights
+2	Felidar Guardian
+1	Scrapper Champion
+1	Irontread Crusher
+1	Aether Hub
+1	Stone Quarry
+1	Island
+7	Mountain
+6	Plains
+
+Sideboard
+1	Renegade Freighter
+1	Fireforger's Puzzleknot
+1	Chandra's Pyrohelix
+1	Welding Sparks
+1	Aviary Mechanic
+2	Decommission
+1	Pacification Array
+1	Audacious Infiltrator
+1	Countless Gears Renegade
+1	Welder Automaton
+1	Ghirapur Osprey
+1	Caught in the Brights
+1	Renegade Map
+1	Welder Automaton
+1	Wrangle

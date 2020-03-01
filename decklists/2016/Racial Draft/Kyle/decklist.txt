@@ -1,0 +1,22 @@
+Maindeck:
+4	Aquitect's Will
+4	Heritage Fluid
+4	Wettle Sentinel
+4	Coralhelm Commander
+4	Lord of Atlantis
+4	Silvergill Adept
+4	Merrow Reejerey
+4	Gempalm Inswimerator
+3	Merfolk Sovereign
+2	Mirror Entity
+1	Master of Waves
+17	Island
+4	Wanderwine Hub
+1	Plains
+Sideboard:
+4	Cursecatcher
+3	Master of Waves
+3	Summon the School
+2	Mirror Entity
+2	Seasinger
+1	Merfolk Sovereign

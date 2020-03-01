@@ -1,0 +1,33 @@
+Maindeck:
+4	Mother of Runes
+4	Loam Lion
+4	Warden of the First Tree
+4	Flinthoof Boar
+2	Soulfire Grand Master
+2	Ghor-Clan Rampager
+4	Wild Slash
+4	Tribal Flames
+3	Boros Charm
+3	Rancor
+2	Ajani, Caller of the Pride
+1	Sword of Fire and Ice
+1	Sword of Light and Shadow
+3	Stomping Ground
+4	Sacred Foundry
+1	Godless Shrine
+1	Watery Grave
+1	Breeding Pool
+4	Windswept Heath
+4	Bloodstained Mire
+1	Flooded Strand
+1	Plains
+1	Forest
+1	Mountain
+Sideboard:
+3	Choke
+2	Disenchant
+1	Boros Charm
+1	Disrupt
+4	Fulminator Mage
+2	Kor Firewalker
+2	Ground Seal
