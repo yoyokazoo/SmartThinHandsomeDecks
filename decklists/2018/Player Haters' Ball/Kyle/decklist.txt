@@ -17,7 +17,7 @@
 Sideboard:
 4	Kor Firewalker
 4	Journey to Nowhere
-2	Aegis of the God's
+2	Aegis of the Gods
 2	Kataki, War's Wage
 2	Rule of Law
 1	Cataclysm
