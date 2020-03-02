@@ -1,3 +1,62 @@
 Maindeck:
-
+Boreal Druid
+Llanowar Elves
+Elvish Mystic
+Noble Hierarch
+Birds of Paradise
+Birds of Paradise
+Birds of Paradise
+Birds of Paradise
+Birds of Paradise
+Joraga Treespeaker
+Avacyn's Pilgrim
+Qasali Pridemage
+Fleecemane Lion
+Strangleroot Geist
+Hangarback Walker
+Voice of Resurgence
+Walking Ballista
+Smuggler's Copter
+Brimaz, King of Oreskos
+Thrashing Brontodon
+Reclamation Sage
+Kitchen Finks
+Thalia, Heretic Cathar
+Tireless Tracker
+Eternal Witness
+Troll Ascetic
+Sword of Fire and Ice
+Sword of War and Peace
+Sword of Feast and Famine
+Sword of Body and Mind
+Nissa, Voice of Zendikar
+Wickerbough Elder
+Collected Company
+Harmonize
+Gideon, Ally of Zendikar
+Elspeth, Knight-Errant
+Thragtusk
+Wolfir Silverheart
+Ajani, Mentor of Heroes
+Temple Garden
+Temple Garden
+Horizon Canopy
+Mutavault
+Stirring Wildwood
+Misty Rainforest
+Windswept Heath
+Sunpetal Grove
+Scattered Groves
+Forest
+Plains
 Sideboard:
+Hokori, Dust Drinker
+Kami of Ancient Law
+Descendant of Kiyomaro
+Indrik Stomphowler
+Primeval Light
+Krosan Grip
+Gaddock Teeg
+Naturalize
+Arashin Cleric
+Sunscourge Champion

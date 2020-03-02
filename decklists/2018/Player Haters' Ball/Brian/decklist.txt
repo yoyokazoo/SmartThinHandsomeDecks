@@ -1,3 +1,39 @@
 Maindeck:
-
-Sideboard:
+4	Argothian Enchantress
+1	Courser of Kruphix
+1	Eidolon of Blossoms
+1	Ulamog, the Infinite Gyre
+4	Enchantress's Presence
+4	Utopia Sprawl
+4	Wild Growth
+1	Moat
+1	Humility
+4	Sterling Grove
+1	Oblivion Ring
+1	Worship
+1	Journey to Nowhere
+3	Elephant Grass
+1	Living Plane
+1	Gideon's Intervention
+1	Runed Halo
+1	Mirri's Guile
+1	Ivory Mask
+2	Idyllic Tutor
+1	Enduring Ideal
+4	Savannah
+4	Windswept Heath
+4	Wooded Foothills
+1	Plains
+8	Forest
+Sideboard
+1	City of Solitude
+1	Curse of Exhaustion
+1	Ground Seal
+1	Blind Obedience
+1	Sphere of Law
+1	Epic Struggle
+1	Seal of Primordium
+1	Starfield of Nyx
+2	Journey to Nowhere
+2	Idyllic Tutor
+3	Carpet of Flowers

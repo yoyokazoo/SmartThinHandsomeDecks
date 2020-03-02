@@ -1,3 +1,85 @@
-Maindeck:
-
-Sideboard:
+Executioner's Capsule
+Banefire
+Stifle
+Ponder
+Innocent Blood
+Sol Ring
+Everflowing Chalice
+Augur of Bolas
+Rakdos Signet
+Izzet Signet
+Dimir Signet
+Mask of Riddles
+Draconic Roar
+Countersquall
+Profane Command
+Diabolic Vision
+Swerve
+Dreadbore
+Terminate
+Breath of Darigaaz
+Animate Dead
+Prophetic Prism
+Undead Gladiator
+Kolaghan's Command
+Sudden Demise
+Hero's Downfall
+Gem of Becoming
+Puppet Strings
+Political Trickery
+Bathe in Dragonfire
+Foul-Tongue Invocation
+Grixis Charm
+Soul Manipulation
+Undermine
+Invoke the Firemind
+Disciple of Bolas
+Murderous Redcap
+Grab the Reins
+Barter in Blood
+Deep Analysis
+Tezzeret, Agent of Bolas
+Seer's Sundial
+Hoarding Dragon
+Hypersonic Dragon
+Prophetic Bolt
+Memory Plunder
+Silumgar's Command
+Slave of Bolas
+Bribery
+Mirari
+Crux of Fate
+Malfegor
+Kokusho, the Evening Star
+Ryusei, the Falling Star
+Keiga, the Tide Star
+Dragonlord's Prerogative
+Life's Finale
+Dreamstone Hedron
+Silent-Blade Oni
+Cruel Ultimatum
+Sphinx-Bone Wand
+Nicol Bolas
+Dig Through Time
+Command Tower
+Mistvein Borderpost
+Veinfire Borderpost
+Dragonskull Summit
+Crumbling Necropolis
+Badlands
+Underground Sea
+Volcanic Island
+Steam Vents
+Blood Crypt
+Watery Grave
+Cascade Bluffs
+Sunken Ruins
+Drowned Catacomb
+Sulfur Falls
+Temple of Deceit
+Temple of Epiphany
+Temple of Malice
+6 Island
+6 Swamp
+6 Mountain
+Nicol Bolas, Planeswalker

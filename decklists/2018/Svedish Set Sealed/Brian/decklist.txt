@@ -1,3 +1,20 @@
 Maindeck:
-
+4	Rakdos Cackler
+4	Dryad Militant
+4	Ash Zealot
+4	Runaway Steam-Kin
+4	Seal of Fire
+2	Madcap Skills
+4	Skullcrack
+4	Skewer the Critics
+4	Char
+4	Risk Factor
+1	Experimental Frenzy
+21	Mountain
 Sideboard:
+4	Mizzium Mortars
+3	Experimental Frenzy
+2	Madcap Skills
+3	Goblin Cratermaker
+1	Mountain
+2	Frostburn Weird

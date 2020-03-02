@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Rancor
+Manamorphose
+Ancestral Mask
+Ash Barrens
+Evolving Wilds
+Utopia Sprawl
+Gemstone Mine
+Karma
+Light of Day
+Abundant Growth
+Sterling Grove
+Slippery Bogle
+Gladecover Scout
+Silhana Ledgewalker
+Invisible Stalker
+Aura Gnarlid
+Dreampod Druid
+Armadillo Cloak
+Lingering Souls
+Ethereal Armor
+Unflinching Courage
+Wild Growth
+Heliod's Pilgrim
+Spirit Mantle
+Circle of Protection: Red
+Hyena Umbra
+Spider Umbra
+Keen Sense
+Young Wolf
+Raise the Alarm
+Boar Umbra
+Warmth
+Kruphix's Insight
+Commune with the Gods
+Khalni Garden
+Gryff's Boon
+Moldervine Cloak
+Circle of Protection: Green
+Bassara Tower Archer
+Sage's Reverie
+Open the Armory
+Fertile Ground
+Taoist Hermit
+Fists of Ironwood
+Seal of Primordium

@@ -1,3 +1,23 @@
 Maindeck:
-
+4	Tarvirus
+4	Nameless Inversion
+4	Ghoulcaller's Chant
+4	Shambling Goblin
+2	Noxious Ghoul
+4	Flesh Prospector
+2	Call to the Grave
+4	Sidisi, Undead Vizier
+1	Grave Titan
+1	Infernal Caretaker
+2	Kalitas, Traitor of Ghet
+4	Geralf's Messenger
+1	Unholy Grotto
+4	Necrotic Temple
+19	Swamp
 Sideboard:
+4	Lifebane Zombie
+3	Ghoulflesh
+2	Kalitas, Traitor of Ghet
+1	Call to the Grave
+4	Stillmoon Cavalier
+1	Noxious Ghoul

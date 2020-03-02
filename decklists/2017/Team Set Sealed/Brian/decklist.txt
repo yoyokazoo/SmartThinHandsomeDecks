@@ -1,3 +1,23 @@
-Maindeck:
-
-Sideboard:
+4	Rakdos Cackler
+3	Firedrinker Satyr
+4	Figure of Destiny
+4	Ash Zealot
+4	Eidolon of the Great Revel
+1	Goblin Vandal
+3	Incinerate
+1	Pulse of the Forge
+1	Collective Defiance
+4	Sulfuric Vortex
+4	Seal of Fire
+3	Flame Javelin
+1	Lava Dart
+1	Koth of the Hammer
+1	Kaervek's Torch
+20	Snow-Covered Mountain
+1	Shinka, the Bloodsoaked Keep
+3	Null Rod
+4	Dragon's Claw
+4	Arc Trail
+1	Koth of the Hammer
+2	Flaring Pain
+1	Touch of the Void

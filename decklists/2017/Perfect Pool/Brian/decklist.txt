@@ -1,3 +1,18 @@
-Maindeck:
-
-Sideboard:
+3	Jace, Memory Adept
+3	Merfolk Mesmerist
+3	Mana Leak
+3	Ice Cage
+3	Cancel
+3	Aether Adept
+3	Azure Mage
+2	Negate
+17	Island
+Sideboard
+3	Divination
+1	Flashfreeze
+3	Jace's Erasure
+2	Mind Control
+3	Phantasmal Bear
+3	Unsummon
+1	Negate
+3	Elixir of Immortality

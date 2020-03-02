@@ -1,3 +1,36 @@
 Maindeck:
-
+3	Thran Dynamo
+4	Mind Stone
+2	Upheaval
+1	Cancel
+1	Decree of Silence
+2	Eternal Dragon
+1	Aeon Chronicler
+1	Sunlance
+4	Remand
+1	Faith's Fetters
+1	Decree of Justice
+2	Sphinx's Revelation
+2	Supreme Verdict
+1	Treachery
+3	Academy Rector
+1	Solitary Confinement
+1	Cunning Wish
+3	Vedalken Shackles
+1	Condescend
+1	Syncopate
+4	Hallowed Fountain
+2	Plains
+4	Terramorphic Expanse
+14	Island
 Sideboard:
+2	Decree of Justice
+2	Supreme Verdict
+2	Treachery
+2	Dispel
+2	Condemn
+1	Decree of Silence
+1	Upheaval
+1	Cyclonic Rift
+1	Cunning Wish
+1	Academy Rector

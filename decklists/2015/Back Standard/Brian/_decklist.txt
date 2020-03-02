@@ -1,0 +1,29 @@
+4	Filigree Angel
+4	Sphinx of Lost Truths
+4	Glassdust Hulk
+4	Architects of Will
+1	Sharuum the Hegemon
+4	Open the Vaults
+3	Day of Judgment
+4	Spreading Seas
+3	Courier's Capsule
+3	Oblivion Ring
+2	Fieldmist Borderpost
+2	Jace, the Mind Sculptor
+2	Journey to Nowhere
+1	Mistvein Borderpost
+4	Island
+4	Glacial Fortress
+3	Plains
+2	Marsh Flats
+2	Terramorphic Expanse
+2	Kabira Crossroads
+2	Celestial Colonnade
+1	Swamp
+Sideboard
+1	Day of Judgment
+1	Oblivion Ring
+1	Jace, the Mind Sculptor
+2	Journey to Nowhere
+4	Negate
+3	Flashfreeze

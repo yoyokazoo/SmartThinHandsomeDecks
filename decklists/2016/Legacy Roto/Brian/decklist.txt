@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Snapcaster Mage
+Remand
+Spell Pierce
+Ponder
+Misty Rainforest
+Flooded Strand
+Volcanic Island
+Preordain
+Force Spike
+Goblin Rabblemaster
+Splinter Twin
+Gitaxian Probe
+Dack Fayden
+Serum Visions
+Spell Snare
+Forked Bolt
+Ral Zarek
+Cascade Bluffs
+Bribery
+Deceiver Exarch
+Sulfur Falls
+Kiki-Jiki, Mirror Breaker
+Zealous Conscripts
+Sudden Demise
+Null Rod
+Dispel
+Rune Snag
+Pyroclasm
+Breaching Hippocamp
+Imperial Recruiter
+Electrolyze
+Cyclonic Rift
+Faerie Macabre
+Flusterstorm
+Phyrexian Furnace
+Whipflare
+Voice of Resurgence
+Pillar of Flame
+Shivan Reef
+Gaea's Blessing
+Delver of Secrets
+Misdirection
+Fire // Ice
+Gilded Drake
+Flame Slash
