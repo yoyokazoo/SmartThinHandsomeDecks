@@ -38,6 +38,7 @@ Mystic Gate
 Reflecting Pool
 Temple of Enlightenment
 Tendo Ice Bridge
+Sideboard
 Biting Tether
 Blessed Alliance
 Collective Effort

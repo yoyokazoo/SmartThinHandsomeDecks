@@ -39,7 +39,8 @@
 	Sunscorched Desert
 	Blinkmoth Nexus
 19	Mountain
-	
+Hazoret the Fervent
+Sideboard
 	Combust
 	Rending Volley
 	Fury Charm
@@ -55,4 +56,3 @@
 	Blood Knight
 	Radiant Fountain
 	Dragon's Claw
-Hazoret the Fervent

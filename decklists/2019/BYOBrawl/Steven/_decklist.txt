@@ -54,7 +54,8 @@
 	Swamp
 	Plains
 4	Forest
-	
+Anafenza, the Foremost
+Sideboard
 	Duress
 	Fatal Push
 	Selesnya Guildmage
@@ -70,4 +71,3 @@
 	Collected Company
 	Baneslayer Angel
 	Grave Titan
-Anafenza, the Foremost

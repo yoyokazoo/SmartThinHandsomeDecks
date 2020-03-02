@@ -54,7 +54,8 @@
 	Windswept Heath
 	Wooded Foothills
 	Woodland Cemetery
-	
+Tasigur, the Golden Fang
+Sideboard
 	Autumn's Veil
 	Batterskull
 	Clever Impersonator
@@ -70,4 +71,3 @@
 	Spellskite
 	Supplant Form
 	Temporal Trespass
-Tasigur, the Golden Fang

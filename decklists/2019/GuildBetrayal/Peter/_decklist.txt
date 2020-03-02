@@ -14,7 +14,7 @@
 1	Selesnya Sanctuary
 8	Plains
 10	Forest
-	
+Sideboard
 1	Aerial Predation
 2	Carven Caryatid
 2	Pithing Needle

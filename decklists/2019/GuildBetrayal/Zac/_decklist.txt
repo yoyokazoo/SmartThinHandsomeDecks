@@ -14,7 +14,7 @@
 4	Azorius Guildgate
 6	Plains
 11	Island
-	
+Sideboard
 1	Azorius Chancery
 2	Spell Snare
 2	Dispel

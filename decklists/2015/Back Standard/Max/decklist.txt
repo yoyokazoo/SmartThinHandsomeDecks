@@ -1,3 +1,25 @@
 Maindeck:
-
-Sideboard:
+4	Kami of the Crescent Moon
+4	Howling Mine
+4	Sudden Impact
+4	Remand
+4	Exhaustion
+4	Gigadrowse
+4	Eye of Nowhere
+4	Ebony Owl Netsuke
+4	Boomerang
+2	Pyroclasm
+	
+11	Island
+4	Steam Vents
+4	Shivan Reef
+2	Mikokoro, Center of the Sea
+1	Mountain
+Sideboard
+2	Pyroclasm
+4	Cerebral Vortex
+1	Evacuation
+3	Gaze of Adamaro
+1	Goblin Flectomancer
+1	Mana Leak
+3	Twincast

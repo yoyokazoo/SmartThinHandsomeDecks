@@ -43,7 +43,8 @@
 	Seat of the Synod
 	Darksteel Citadel
 15	Island
-	
+Sai, Master Thopterist
+Sideboard
 	Sword of Light and Shadow
 	Navigator's Compass
 	Sword of Fire and Ice
@@ -59,4 +60,3 @@
 	Turn Aside
 	Hurkyl's Recall
 	Echoing Truth
-Sai, Master Thopterist

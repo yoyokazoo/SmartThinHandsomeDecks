@@ -15,7 +15,7 @@
 1	Simic Guildgate
 2	Island
 11	Forest
-	
+Sideboard
 1	Trygon Predator
 2	Aetherling
 2	Carven Caryatid

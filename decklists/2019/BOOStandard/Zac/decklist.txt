@@ -12,7 +12,7 @@
 4	Wasteland
 4	Ancient Tomb
 2	Treasure Map
-	
+Sideboard
 2	Treasure Map
 1	Deathgorge Scavenger
 3	Thragtusk

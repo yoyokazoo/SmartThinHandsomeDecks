@@ -18,7 +18,7 @@
 4	Ancient Tomb
 4	Drowned Catacomb
 1	Island
-	
+Sideboard
 1	Elderscale Wurm
 4	Gloom
 2	Living Death

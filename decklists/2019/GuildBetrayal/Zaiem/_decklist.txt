@@ -13,7 +13,7 @@
 4	Pillar of the Paruns
 6	Mountain
 8	Forest
-	
+Sideboard
 3	Cindervines
 4	Gruul Turf
 4	Hydroid Krasis

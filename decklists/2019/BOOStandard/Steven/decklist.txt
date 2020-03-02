@@ -14,7 +14,7 @@
 4	Lotus Petal
 4	City of Brass
 13	Forest
-	
+Sideboard
 2	Perish
 2	Ground Seal
 2	Sentinel Totem

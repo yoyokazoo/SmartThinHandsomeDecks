@@ -18,7 +18,7 @@
 2	Maze's End
 2	Mountain
 2	Plains
-	
+Sideboard
 2	Pithing Needle
 2	Lava Coil
 2	Renounce the Guilds
