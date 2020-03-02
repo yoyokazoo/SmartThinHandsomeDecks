@@ -1,5 +1,5 @@
 Rootbound Crag
-Samut the Tested
+Samut, the Tested
 Samut, Voice of Dissent
 Rishkar, Peema Renegade
 Servant of the Conduit
@@ -13,7 +13,7 @@ Whisperwood Elemental
 Wooded Foothills
 Elvish Mystic
 Mana Confluence
-Xenagos the Reveler
+Xenagos, the Reveler
 Elvish Mystic
 Domri Rade
 Elvish Archdruid

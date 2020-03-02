@@ -1,5 +1,5 @@
 3	Cryptic Command
-3	Silverdill Adept
+3	Silvergill Adept
 3	Merrow Reejerey
 2	Amoeboid Changeling
 2	Spellstutter Sprite

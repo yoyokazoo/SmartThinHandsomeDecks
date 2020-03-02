@@ -1,7 +1,7 @@
 1	Seal of Removal
 2	Runechanter's Pike
 4	Delver of Secrets
-4	Geist of St. Traft
+4	Geist of Saint Traft
 1	Eternal Dragon
 4	Snapcaster Mage
 3	Path to Exile

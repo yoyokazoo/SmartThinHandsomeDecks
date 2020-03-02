@@ -1,7 +1,7 @@
 Mulldrifter
 Compulsive Research
 Thirst for Knowledge
-Fire/Ice
+Fire // Ice
 Deep Analysis
 Electrolyze
 Firebolt
@@ -30,7 +30,7 @@ Sin Collector
 Prophetic Prism
 Tribute to Hunger
 Crypt Incursion
-Tidings 
+Tidings
 Think Twice
 Noxious Vapors
 Entomber Exarch
@@ -38,8 +38,8 @@ Crumbling Vestige
 Magma Spray
 Addle
 Coldsteel Heart
-Rise/Fall
-Hit/Run
-Crosis' Charm
+Rise // Fall
+Hit // Run
+Crosis's Charm
 Swerve
 Nucklavee
