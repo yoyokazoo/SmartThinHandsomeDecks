@@ -1,3 +1,64 @@
-Maindeck:
+Rootbound Crag
+Samut the Tested
+Samut, Voice of Dissent
+Rishkar, Peema Renegade
+Servant of the Conduit
+Ulrich of the Krallenhorde
+Arlinn Kord
+Nissa, Voice of Zendikar
+Cinder Glade
+Nissa, Vastwood Seer
+Collected Company
+Whisperwood Elemental
+Wooded Foothills
+Elvish Mystic
+Mana Confluence
+Xenagos the Reveler
+Elvish Mystic
+Domri Rade
+Elvish Archdruid
+Wolfir Silverheart
+Huntmaster of the Fells
+Garruk Relentless
+Elvish Archdruid
+Sword of War and Peace
+Sword of Feast and Famine
+Copperline Gorge
+Elvish Archdruid
+Joraga Treespeaker
+Arbor Elf
+Verdant Catacombs
+Elvish Archdruid
+Noble Hierarch
+Elvish Visionary
+Nettle Sentinel
+Devoted Druid
+Mutavault
+Imperious Perfect
+Llanowar Elves
+Grove of the Burnwillows
+Harmonize
+Pendelhaven
+Boreal Druid
+Utopia Sprawl
+Stomping Ground
+Elves of Deep Shadow
+Llanowar Elves
+Plow Under
+Tendo Ice Bridge
+Sakura-Tribe Elder
 
-Sideboard:
+Sword of Fire and Ice
+9 Forest
+1 Mountain
+
+Sideboard
+
+Viridian Shaman
+Vithian Renegades
+Magma Jet
+Pithing Needle
+Pithing Needle
+Ruric Thar, the Unbowed
+Thrashing Brontodon
+Courser of Kruphix

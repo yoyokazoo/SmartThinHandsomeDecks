@@ -1,3 +1,28 @@
-Maindeck:
-
-Sideboard:
+4	Architects of Will
+4	Monsterous Carabid
+4	Deadshot Minotaur
+2	Twisted Abomination
+2	Valley Rannet
+3	Living End
+4	Fulminator Mage
+3	Avalanche Riders
+4	Violent Outburst
+4	Demonic Dread
+1	Wirewood Guardian
+1	Grixis Sojourners
+4	Tangle Wire
+1	Temple of Malady
+4	Blackcleave Cliffs
+4	Copperline Gorge
+1	Forbidden Orchard
+1	Snow-Covered Forest
+1	Snow-Covered Swamp
+4	Overgrown Tomb
+4	Blood Crypt
+Sideboard
+2	Psychotic Episode
+3	Spike Feeder
+4	Krosan Grip
+2	Slaughter Games
+3	Faerie Macabre
+1	Avalanche Riders

@@ -1,3 +1,36 @@
-Maindeck:
-
-Sideboard:
+3	Goblin Guide
+4	Monestery Swiftspear
+1	Figure of Destiny
+4	Zektar Shrine Expedition
+1	Warren Instigator
+1	Tarmogoyf
+4	Plated Geopede
+4	Double Cleave
+4	Become Immense
+3	Groundswell
+1	O-Naginata
+1	Predator's Strike
+2	Countryside Crusher
+1	Adamaro, First to Desire
+1	Goblin Rabblemaster
+2	Raging Ravine
+1	Evolving Wilds
+4	Wooded Foothills
+4	Bloodstained Mire
+3	Scalding Tarn
+2	Verdant Catacombs
+2	Misty Rainforest
+2	Forest
+3	Mountain
+1	Mutavault
+1	Dryad Arbor
+Sideboard
+1	Predator's Strike
+3	Searing Blaze
+2	Ranger's Guile
+3	Tarmogoyf
+1	Damping Matrix
+1	Reclamation Sage
+1	Countryside Crusher
+2	Chandra, Pyromaster
+1	Sarkhan, the Dragonspeaker

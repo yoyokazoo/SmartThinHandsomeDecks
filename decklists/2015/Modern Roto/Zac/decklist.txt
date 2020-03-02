@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Emrakul, the Aeons Torn
+Kozilek, Butcher of Truth
+Serum Visions
+Compulsive Research
+Wurmcoil Engine
+Tarmogoyf
+Coalition Relic
+Engineered Explosives
+Sakura-Tribe Elder
+Eternal Witness
+Firespout
+Everflowing Chalice
+Cavern of Souls
+Pyroclasm
+Flame Slash
+Garruk Wildspeaker
+Raging Ravine
+Thragtusk
+Primeval Titan
+Through the Breach
+Treetop Village
+Radiant Fountain
+Gruul Turf
+Izzet Boilerworks
+Rending Volley
+Explore
+Simic Growth Chamber
+Selesnya Sanctuary
+Golgari Rot Farm
+Seal of Primordium
+Amulet of Vigor
+Summer Bloom
+Hornet Queen
+Inferno Titan
+Khalni Garden
+Mana Confluence
+Gemstone Mine
+Tendo Ice Bridge
+Kiora, the Crashing Wave
+Oracle of Mul Daya
+Summoning Trap
+See the Unwritten
+Azusa, Lost but Seeking
+Duplicant
+Courser of Kruphix

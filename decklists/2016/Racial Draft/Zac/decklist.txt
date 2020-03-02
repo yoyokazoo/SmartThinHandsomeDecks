@@ -1,3 +1,21 @@
-Maindeck:
-
-Sideboard:
+4	Ramosian Sergeant
+4	Ramosian Assassin
+4	Spiedhollow Sculler
+4	Whipcorder
+3	Defiant Falcon
+1	Amrou Scout
+1	Ramosian Lieutenant
+4	Turd-Name Nemesis
+2	Defiant Vanguard
+1	Bound in Silence
+3	Crib Swap
+2	Mirror Entity
+1	Ramosian Revivalist
+26	Plains
+Sideboard
+4	Lawbringer
+1	Children of Korlis
+4	Lightbringer
+4	Zealot il-Vec
+1	Crib Swap
+1	Big Game Hunter

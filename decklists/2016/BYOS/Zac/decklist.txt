@@ -1,3 +1,23 @@
-Maindeck:
-
-Sideboard:
+4	Force Spike
+4	Force of Will
+4	Ancestral Vision
+4	Whispers of the Muse
+1	Opt
+4	Counterspell
+2	Arcane Denial
+4	Memory Lapse
+4	Repeal
+4	Fact or Fiction
+3	Urza's Factory
+3	Tectonic Edge
+1	Quicksand
+18	Island
+Sideboard
+3	Dismember
+4	Mental Misstep
+2	Tormod's Crypt
+1	Feldon's Cane
+1	Dispel
+2	Disrupt
+1	Delusions of Mediocrity
+1	Exclude

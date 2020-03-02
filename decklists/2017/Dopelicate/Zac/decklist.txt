@@ -1,3 +1,10 @@
-Maindeck:
-
-Sideboard:
+Fabled Hero
+Gitaxian Probe
+Phyrexian Vatmother
+Temur Battle Rage
+Invigorated Rampage
+Berserk
+Become Immense
+Grafted Exoskeleton
+Zur the Enchanter
+Inkmoth Nexus

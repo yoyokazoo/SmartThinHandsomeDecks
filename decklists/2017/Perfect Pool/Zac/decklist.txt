@@ -1,3 +1,24 @@
-Maindeck:
-
-Sideboard:
+3	Cryptic Command
+3	Silverdill Adept
+3	Merrow Reejerey
+2	Amoeboid Changeling
+2	Spellstutter Sprite
+2	Broken Ambitions
+3	Nameless Inversion
+3	Pestermite
+3	Mulldrifter
+3	Vivid Creek
+3	Swamp
+10	Island
+Sideboard
+2	Thieving Sprite
+2	Peppersmoke
+2	Eyeblight's Ending
+1	Spellstutter Sprite
+1	Silvergill Douser
+2	Faerie Trickery
+1	Mournwhelk
+1	Shimmering Grotto
+1	Wings of Velis Vel
+1	Springleaf Drum
+1	Broken Ambitions

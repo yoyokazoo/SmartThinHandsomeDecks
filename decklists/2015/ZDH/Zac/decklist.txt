@@ -1,3 +1,73 @@
-Maindeck:
-
-Sideboard:
+Grim Lavamancer
+Goblin Vandal
+Mana Crypt
+Skred
+Sol Ring
+Mana Vault
+Smelt
+Vandalblast
+Shattering Spree
+Flame Slash
+Dwarven Miner
+Dwarven Blastminer
+Orcish Settlers
+Mind Stone
+Fire Diamond
+Coldsteel Heart
+Roast
+Grim Monolith
+Umezawa's Jitte
+Manic Vandal
+Keldon Vandals
+Goblin Ruinblaster
+Magus of the Moon
+Pillage
+Stone Rain
+Molten Rain
+Sword of Fire and Ice
+Sword of Light and Shadow
+Sword of Feast and Famine
+Crucible of Worlds
+Worn Powerstone
+Coalition Relic
+Basalt Monolith
+Flametongue Kavu
+Avalanche Riders
+Ravenous Baboons
+Goblin Settler
+Solemn Simulacrum
+Chandra, Pyromaster
+Koth of the Hammer
+Aftershock
+Flowstone Flood
+Seismic Spike
+Outpost Siege
+Ingot Chewer
+Ogre Arsonist
+Ravaging Horde
+Kiki-Jiki, Mirror Breaker
+Sarkhan, the Dragonspeaker
+Chandra Nalaar
+Batterskull
+Wurmcoil Engine
+Inferno Titan
+Godo, Bandit Warlord
+Duplicant
+Karn Liberated
+Ugin, the Spirit Dragon
+Strip Mine
+Ancient Tomb
+Wasteland
+Dust Bowl
+Rishadan Port
+Blinkmoth Nexus
+Inkmoth Nexus
+Kher Keep
+Scrying Sheets
+Bloodstained Mire
+Arid Mesa
+Scalding Tarn
+Wooded Foothills
+Maze of Ith
+28 Mountain
+Thundermaw Hellkite
