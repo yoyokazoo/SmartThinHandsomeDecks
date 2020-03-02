@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Stoneforge Mystic
+Umezawa's Jitte
+Mother of Runes
+Containment Priest
+Thalia, Guardian of Thraben
+Rishadan Port
+Ethersworn Canonist
+Spirit of the Labyrinth
+Flickerwisp
+Figure of Destiny
+Karakas
+Kor Firewalker
+Isamaru, Hound of Konda
+Kytheon, Hero of Akros
+Auriok Champion
+Rest in Peace
+Sword of Body and Mind
+Sunlance
+Mana Tithe
+Phyrexian Revoker
+Dryad Militant
+Oblivion Ring
+Grand Abolisher
+Student of Warfare
+Brave the Elements
+Soldier of the Pantheon
+Winter Orb
+Leonin Relic-Warder
+Spectral Procession
+Honor of the Pure
+Silver Knight
+Oust
+Mirran Crusader
+Leonin Arbiter
+Hallowed Fountain
+Prairie Stream
+Meddling Mage
+Reflector Mage
+Adarkar Wastes
+Knight of the White Orchid
+Seachrome Coast
+Mystic Gate
+Pongify
+Rapid Hybridization
+Worship

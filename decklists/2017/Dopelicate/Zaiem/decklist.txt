@@ -1,3 +1,10 @@
-Maindeck:
-
-Sideboard:
+Brimaz, King of Oreskos
+Pack Rat
+Traverse the Ulvenwald
+Cyclonic Rift
+Thundermaw Hellkite
+Mercurial Chemister
+Kaya, Ghost Assassin
+Grand Coliseum
+Smuggler's Copter
+Blasphemous Act

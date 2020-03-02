@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+ Blighted Agent
+Glistener Elf
+Ponder
+Gitaxian Probe
+Serum Visions
+Invigorate
+Vines of Vastwood
+Blossoming Defense
+Ichorclaw Myr
+Opt
+Thought Scour
+Necropede
+Might of Old Krosa
+Viridian Corrupter
+Distortion Strike
+Groundswell
+Spell Pierce
+Daze
+Mutagenic Growth
+Blight Mamba
+Dispel
+Back to Nature
+Gut Shot
+Rot Wolf
+Carrion Call
+Envelop
+Artful Dodge
+Apostle's Blessing
+Corpse Cur
+Frontier Bivouac
+Seaside Citadel
+Simic Guildgate
+Lotus Petal
+Seal of Strength
+Peek
+Sleight of Hand
+Soaring Seacliff
+Nature's Claim
+Crop Rotation
+Viridian Betrayers
+Hydroblast
+Hibernation
+Reverent Silence
+Gainsay
+Predator's Strike

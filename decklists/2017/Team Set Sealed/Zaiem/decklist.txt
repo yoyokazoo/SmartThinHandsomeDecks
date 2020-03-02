@@ -1,3 +1,19 @@
-Maindeck:
-
-Sideboard:
+4	Spellstutter Sprite
+4	Snapcaster Mage
+3	Venser, Shaper Savant
+4	Counterspell
+4	Miscalculation
+4	Cryptic Command
+3	Disallow
+4	Peek
+1	Misdirection
+3	Vedalken Shackles
+1	Ugin, the Spirit Dragon
+20	Island
+3	Faerie Conclave
+3	Riptide Laboratory
+Sideboard
+3	Jace Beleren
+4	Chill
+4	Mistbind Clique
+4	Scion of Oona

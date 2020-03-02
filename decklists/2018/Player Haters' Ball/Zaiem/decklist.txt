@@ -1,3 +1,23 @@
-Maindeck:
-
-Sideboard:
+4	Fyndhorn Elves
+4	Nettle Sentinel
+4	Priest of Titania
+4	Wren's Run Vanquisher
+4	Elvish Champion
+4	Imperious Perfect
+4	Elvish Archdruid
+4	Shaman of the Pack
+4	Chord of Calling
+2	Ezuri, Renegade Leader
+4	Verdant Catacombs
+1	Pendelhaven
+1	Regal Force
+4	Bayou
+12	Forest
+Sideboard
+1	Taunting Elf
+3	Caller of the Claw
+2	Tsunami
+2	Diabolic Edict
+2	Go for the Throat
+2	Sylvan Messenger
+3	Wellwisher

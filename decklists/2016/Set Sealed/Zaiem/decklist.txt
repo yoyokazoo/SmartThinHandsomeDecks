@@ -1,3 +1,25 @@
-Maindeck:
-
-Sideboard:
+4	Jackal Pup
+4	Furnace Scamp
+3	Mogg Fanatic
+3	Zurgo Bellstriker
+1	Lightning Mauler
+1	Torch Fiend
+1	Vexing Devil
+1	Viashino Sandstalker
+1	Eldrazi Obligator
+1	Hellrider
+4	Lightning Bolt
+4	Shrine of Burning Rage
+4	Pillage
+3	Fireblast
+1	Guerrilla Tactics
+1	Roast
+1	Oath of Chandra
+2	Mishra's Factory
+1	Wasteland
+19	Mountain
+Sideboard
+4	Red Elemental Blast
+4	Dismember
+4	Stone Rain
+3	Wasteland

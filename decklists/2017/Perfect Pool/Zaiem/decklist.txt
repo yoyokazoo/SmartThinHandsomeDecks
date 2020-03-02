@@ -1,3 +1,32 @@
-Maindeck:
-
-Sideboard:
+2	Kor Spiritdancer
+2	Aura Gnarlid
+2	Nest Invader
+2	Knight of Cliffhaven
+2	Caravan Escort
+1	Gladecover Scout
+1	Llanowar Elves
+2	Boar Umbra
+2	Hyena Umbra
+2	Spider Umbra
+2	Snake Umbra
+1	Emerge Unscathed
+1	Angelic Destiny
+1	Oblivion Ring
+1	Spirit Mantle
+7	Forest
+7	Plains
+2	Evolving Wilds
+Sideboard
+1	Emerge Unscathed
+2	Prey's Vengeance
+2	Totem-Guide Hartebeest
+2	Naturalize
+1	Timely Reinforcements
+1	Auramancer
+1	Divine Favor
+1	Pacifism
+1	Sacred Wolf
+1	Trollhide
+1	Brindle Boar
+1	Lifelink
+1	Lurking Crocodile

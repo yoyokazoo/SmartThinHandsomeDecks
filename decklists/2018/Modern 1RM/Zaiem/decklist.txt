@@ -1,3 +1,59 @@
-Maindeck:
+Lightning Strike
+Hour of Promise
+Sheltered Thicket
+Walking Ballista
+Chandra, Torch of Defiance
+Grapple with the Past
+World Breaker
+Ulamog, the Ceaseless Hunger
+Nissa, Vastwood Seer
+Dragonlord Atarka
+Wooded Foothills
+Elvish Mystic
+Sylvan Caryatid
+Elvish Mystic
+Stomping Ground
+Thragtusk
+Bonfire of the Damned
+Kessig Wolf Run
+Primeval Titan
+Karn Liberated
+Wurmcoil Engine
+Primeval Titan
+Joraga Treespeaker
+Raging Ravine
+Misty Rainforest
+Lightning Bolt
+Noble Hierarch
+Magma Spray
+Puncture Blast
+Devoted Druid
+Primal Command
+Rampant Growth
+Grove of the Burnwillows
+Harmonize
+Search for Tomorrow
+Coldsteel Heart
+Stomping Ground
+Farseek
+Rampant Growth
+Rampant Growth
+Kodama's Reach
+Eternal Witness
+Tooth and Nail
+12 Forest
+5 Mountain
 
-Sideboard:
+Sideboard
+
+Electrickery
+Hidetsugu's Second Rite
+Indrik Stomphowler
+Deglamer
+Plummet
+Thrun, the Last Troll
+Tireless Tracker
+Riddle of Lightning
+Outpost Siege
+Courser of Kruphix
+Huntmaster of the Fells

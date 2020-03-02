@@ -1,3 +1,29 @@
-Maindeck:
-
-Sideboard:
+4	Firedrinker Satyr
+4	Foundry Street Denizen
+3	Monastery Swiftspear
+1	Scorched Rusalka
+1	Rubblebelt Maaka
+4	Spike Jester
+4	Goblin Rabblemaster
+1	Hazoret the Fervent
+3	Seal of Fire
+4	Lightning Bolt
+2	Lightning Strike
+2	Hit // Run
+2	Stoke the Flames
+4	Hordeling Outburst
+4	Blood Crypt
+4	Rishadan Port
+2	Mountain
+4	Wooded Foothills
+1	Stomping Ground
+4	Bloodstained Mire
+2	Polluted Delta
+Sideboard
+2	Tormod's Crypt
+4	Dragon's Claw
+1	Seal of Fire
+1	Rain of Gore
+2	Hit // Run
+3	Thoughtseize
+2	Arc Lightning

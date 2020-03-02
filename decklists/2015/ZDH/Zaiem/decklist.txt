@@ -1,3 +1,72 @@
-Maindeck:
-
-Sideboard:
+Brainstorm
+Ancestral Vision
+Preordain
+Grafdigger's Cage
+Relic of Progenitus
+Sensei's Divining Top
+Sol Ring
+Gilded Drake
+Phantasmal Image
+Snapcaster Mage
+Counterspell
+Cyclonic Rift
+Mind Stone
+Sapphire Medallion
+Trinket Mage
+Vedalken Shackles
+Dissipate
+Forbid
+Hinder
+Spell Crumple
+Jace Beleren
+Equilibrium
+Compulsive Research
+Fabricate
+Crystal Shard
+Capsize
+Temple Bell
+Darksteel Ingot
+Phyrexian Metamorph
+Solemn Simulacrum
+Cryptic Command
+Fact or Fiction
+Rewind
+Jace, Architect of Thought
+Jace, the Mind Sculptor
+Deep Analysis
+Rite of Replication
+Thran Dynamo
+Body Double
+Magus of the Future
+Mulldrifter
+Psychosis Crawler
+Teferi, Mage of Zhalfir
+Vesuvan Shapeshifter
+Tamiyo, the Moon Sage
+Tezzeret the Seeker
+Future Sight
+Acquire
+Tidings
+Gilded Lotus
+Arcanis the Omnipotent
+Consecrated Sphinx
+Deadeye Navigator
+Draining Whelk
+Mind Over Matter
+Caged Sun
+Chancellor of the Spires
+Memnarch
+Karn Liberated
+All Is Dust
+Blue Sun's Zenith
+Oboro, Palace in the Clouds
+Buried Ruin
+Cavern of Souls
+Minamo, School at Water's Edge
+Reliquary Tower
+Riptide Laboratory
+Strip Mine
+Temple of the False God
+Tolaria West
+29 Island
+Venser, Shaper Savant
