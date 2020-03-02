@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Dark Confidant
+Inquisition of Kozilek
+Bloodstained Mire
+Wooded Foothills
+Dismember
+Taiga
+Bayou
+Young Pyromancer
+Goblin Guide
+Grim Lavamancer
+Burst Lightning
+Chain Lightning
+Monastery Swiftspear
+Smash to Smithereens
+Rift Bolt
+Dead // Gone
+Price of Progress
+Graven Cairns
+Kolaghan's Command
+Eidolon of the Great Revel
+Molten Rain
+Dread of Night
+Dragonskull Summit
+Bitterblossom
+Rakdos Cackler
+Mutagenic Growth
+Stomping Ground
+Arc Trail
+Copperline Gorge
+Gut Shot
+Sulfurous Springs
+Surgical Extraction
+Rakdos Charm
+Destructive Revelry
+Grafdigger's Cage
+Abrupt Decay
+Zurgo Bellstriker
+Berserk
+Searing Blaze
+Sulfuric Vortex
+Kiln Fiend
+Keldon Marauders
+Reckless Charge
+Death's Shadow
+Atarka's Command

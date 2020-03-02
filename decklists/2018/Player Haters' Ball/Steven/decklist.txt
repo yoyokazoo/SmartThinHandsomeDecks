@@ -1,3 +1,28 @@
-Maindeck:
-
-Sideboard:
+4	Lagonna-Band Trailblazer
+4	Favored Hoplite
+4	Satyr Hoplite
+4	Soul-Scar Mage
+1	Seeker of the Way
+2	Rancor
+4	Might of Old Krosa
+3	Groundswell
+1	Become Immense
+4	Berserk
+4	Assault Strobe
+4	Invigorate
+4	Mutagenic Growth
+4	Wooded Foothills
+4	Arid Mesa
+4	Windswept Heath
+3	Taiga
+2	Savannah
+Sideboard
+2	Rancor
+1	Seeker of the Way
+3	Dromoka's Command
+2	Blossoming Defense
+2	Destructive Revelry
+2	Valorous Stance
+1	Forked Bolt
+1	Arc Trail
+1	Temur Battle Rage

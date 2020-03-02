@@ -1,3 +1,96 @@
-Maindeck:
-
-Sideboard:
+Noble Hierarch
+Birds of Paradise
+Sakura-Tribe Scout
+Arbor Elf
+Mother of Runes
+Avacyn's Pilgrim
+Elves of Deep Shadow
+Sensei's Divining Top
+Crop Rotation
+Vampiric Tutor
+Brainstorm
+Enlightened Tutor
+Mystical Tutor
+Exploration
+Phantasmal Image
+Phyrexian Revoker
+Spellskite
+Qasali Pridemage
+Voyaging Satyr
+Sylvan Caryatid
+Wall of Roots
+Demonic Tutor
+Life from the Loam
+Cyclonic Rift
+Explore
+Knight of the Reliquary
+Pestermite
+Deceiver Exarch
+Reclamation Sage
+Eternal Witness
+Vendilion Clique
+Crucible of Worlds
+Birthing Pod
+Oracle of Mul Daya
+Restoration Angel
+Phyrexian Metamorph
+Jace, the Mind Sculptor
+Faith's Fetters
+Xenagos, the Reveler
+Garruk Relentless
+Kiki-Jiki, Mirror Breaker
+Acidic Slime
+Tezzeret the Seeker
+Future Sight
+Frost Titan
+Inferno Titan
+Consecrated Sphinx
+Avenger of Zendikar
+Tooth and Nail
+Craterhoof Behemoth
+Terastodon
+Bonfire of the Damned
+Green Sun's Zenith
+Chord of Calling
+Entreat the Angels
+Polluted Delta
+Flooded Strand
+Misty Rainforest
+Scalding Tarn
+Verdant Catacombs
+Windswept Heath
+Wooded Foothills
+Bloodstained Mire
+Marsh Flats
+Arid Mesa
+Gaea's Cradle
+Strip Mine
+Wasteland
+Sejiri Steppe
+Cascade Bluffs
+Fire-Lit Thicket
+Yavimaya Coast
+Hinterland Harbor
+Flooded Grove
+Dryad Arbor
+Rootbound Crag
+Mana Confluence
+Tropical Island
+Taiga
+Savannah
+Bayou
+Underground Sea
+Tundra
+Volcanic Island
+Breeding Pool
+Temple Garden
+Stomping Ground
+Azorius Chancery
+Simic Growth Chamber
+Gruul Turf
+Izzet Boilerworks
+Selesnya Sanctuary
+Steam Vents
+Hallowed Fountain
+5 Forest
+Lotus Cobra

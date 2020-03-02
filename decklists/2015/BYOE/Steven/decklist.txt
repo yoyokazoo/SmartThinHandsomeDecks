@@ -1,3 +1,30 @@
-Maindeck:
-
-Sideboard:
+1	Viscera Seer
+1	Body Double
+1	Reveillark
+1	Mogg Fanatic
+4	Protean Hulk
+4	Flash
+4	Mystical Tutor
+4	Vampiric Tutor
+4	Force of Will
+3	Pact of Negation
+4	Summoner's Pact
+3	Simian Spirit Guide
+4	Elvish Spirit Guide
+4	Brainstorm
+1	Disperse
+4	Watery Grave
+4	City of Brass
+4	Gemstone Mine
+2	Underground River
+3	Gemstone Caverns
+Sideboard
+1	Slaughter Pact
+1	Pithing Needle
+4	Leyline of the Void
+4	Thoughtseize
+1	Autumn's Veil
+1	Back to Nature
+1	Underground River
+1	Gemstone Caverns
+1	Pact of Negation

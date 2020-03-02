@@ -1,3 +1,21 @@
-Maindeck:
-
-Sideboard:
+4	Viscera Seer
+4	Quirion Ranger
+1	Bloodthrone Vampire
+4	Sanguine Shaman
+4	Bloodsmith
+4	Blood Artist
+4	Bloodghast
+1	Kalastria Highborn
+1	Vampire Nocturnus
+4	Urge to Feed
+2	Feast of Blood
+4	Nameless Inversion
+1	Captivating Vampire
+1	Bloodline Keeper
+21	Swamp
+Sideboard
+4	Shadow Alley Denizen
+4	Drana, Liberator of Malakir
+3	Vampire Nocturnus
+2	Captivating Vampire
+4	Malakir Bloodwitch

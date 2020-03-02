@@ -1,3 +1,29 @@
-Maindeck:
-
-Sideboard:
+4	Llanowar Elves
+4	Elvish Mystic
+3	Scavenging Ooze
+1	Adorned Pouncer
+3	Strangleroot Geist
+4	Blade Splicer
+4	Deathmist Raptor
+4	Den Protector
+4	Dromoka's Command
+4	Collected Company
+1	Plow Under
+1	Worldly Tutor
+1	Ajani, Mentor of Heroes
+4	Brushland
+4	Sungrass Prairie
+2	Grasslands
+3	Mana Confluence
+1	Yavimaya Hollow
+1	Hashep Oasis
+6	Forest
+1	Plains
+Sideboard
+3	Banishing Light
+1	Garruk Wildspeaker
+1	Sword of War and Peace
+2	Worship
+4	Thalia, Guardian of Thraben
+3	Sunscourge Champion
+1	Gaddock Teeg

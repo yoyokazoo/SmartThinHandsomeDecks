@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Noble Hierarch
+Flooded Strand
+Windswept Heath
+Vendilion Clique
+Polluted Delta
+Spell Pierce
+Breeding Pool
+Gitaxian Probe
+Overgrown Tomb
+Hallowed Fountain
+Rancor
+Geist of Saint Traft
+Thrun, the Last Troll
+Spectral Flight
+Qasali Pridemage
+Godless Shrine
+Zealous Persecution
+Blind Obedience
+Leyline of Sanctity
+Seachrome Coast
+Razorverge Thicket
+Celestial Purge
+Tasigur, the Golden Fang
+Disdainful Stroke
+Fertile Ground
+Ghostly Prison
+Unflinching Courage
+Dromoka's Command
+Sigarda, Host of Herons
+Sunlance
+Birds of Paradise
+Maelstrom Pulse
+Knight of the Reliquary
+Supreme Verdict
+Utopia Sprawl
+Voice of Resurgence
+Fleecemane Lion
+Sylvan Caryatid
+Avacyn's Pilgrim
+Loxodon Smiter
+Wilt-Leaf Liege
+Temporal Isolation
+Siege Rhino
+Anafenza, the Foremost
+Rhox War Monk

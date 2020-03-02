@@ -1,3 +1,19 @@
-Maindeck:
-
-Sideboard:
+4	Show and Tell
+4	Intuition
+4	Hive Mind
+4	Jin-Gitaxias, Core Augur
+4	Force of Will
+4	Pact of Negation
+4	Daze
+4	Accumulated Knowledge
+4	Gitaxian Probe
+4	Pact of the Titan
+2	Summoner's Pact
+4	Ancient Tomb
+14	Island
+Sideboard
+3	Mental Misstep
+3	Meditate
+3	Slaughter Pact
+3	Energy Field
+3	Elvish Spirit Guide

@@ -1,3 +1,26 @@
-Maindeck:
-
-Sideboard:
+3	Glimpse the Unthinkable
+3	Remand
+3	Last Gasp
+3	Dimir Signet
+1	Golgari Signet
+3	Compulsive Research
+3	Muddle the Mixture
+2	Convolute
+2	Induce Paranoia
+1	Disembowel
+1	Ribbons of Night
+1	Golgari Rot Farm
+3	Dimir Aqueduct
+8	Island
+3	Swamp
+Sideboard
+3	Vedalken Entrancer
+1	Junktroller
+1	Sundering Vitae
+2	Shred Memory
+1	Recollect
+1	Psychic Drain
+1	Ribbons of Night
+1	Induce Paranoia
+1	Nightmare Void
+1	Convolute
