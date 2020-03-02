@@ -1,3 +1,62 @@
-Maindeck:
+Negate
+Carnage Tyrant
+Hashep Oasis
+Rishkar, Peema Renegade
+Verdurous Gearhulk
+Jace, Unraveler of Secrets
+Nissa, Voice of Zendikar
+Kiora, Master of the Depths
+Terra Stomper
+Negate
+Whisperwood Elemental
+Windswept Heath
+Elvish Mystic
+Mana Confluence
+Polukranos, World Eater
+Elvish Mystic
+Unflinching Courage
+Breeding Pool
+Temple Garden
+Arbor Elf
+Wolfir Silverheart
+Strangleroot Geist
+Avacyn's Pilgrim
+Birds of Paradise
+Sword of War and Peace
+Sword of Feast and Famine
+Sword of Body and Mind
+Birds of Paradise
+Vengevine
+Arbor Elf
+Misty Rainforest
+Birds of Paradise
+Noble Hierarch
+Rhox War Monk
+Flooded Grove
+Kitchen Finks
+Garruk Wildspeaker
+Birds of Paradise
+Horizon Canopy
+Harmonize
+Pendelhaven
+Boreal Druid
+Breeding Pool
+Birds of Paradise
+Llanowar Elves
+Birds of Paradise
+Steelshaper's Gift
+Sword of Fire and Ice
+Troll Ascetic
+12 Forest
 
-Sideboard:
+Sideboard
+
+Iwamori of the Open Fist
+Ghostly Prison
+Pithing Needle
+Qasali Pridemage
+Thalia, Heretic Cathar
+Brimaz, King of Oreskos
+Giant Solifuge
+Negate
+Vizier of the Menagerie

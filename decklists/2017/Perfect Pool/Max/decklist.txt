@@ -1,3 +1,21 @@
-Maindeck:
-
-Sideboard:
+3	Dampen Thought
+3	Consuming Vortex
+3	Ghostly Prison
+3	Ethereal Haze
+1	Hinder
+3	Peer Through Depths
+3	Reach Through Mists
+1	Thoughtbind
+2	Eerie Procession
+11	Island
+7	Plains
+Sideboard
+2	Meloku the Clouded Mirror
+1	Myojin of Cleansing Fire
+3	Quiet Purity
+3	Hisoka's Defiance
+2	Eye of Nowhere
+3	Counsel of the Soratami
+2	Thoughtbind
+2	Floating-Dream Zubera
+2	Psychic Puppetry

@@ -1,3 +1,31 @@
-Maindeck:
-
-Sideboard:
+4	Dark Confidant
+4	Meddling Mage
+3	Shadowmage Infiltrator
+4	Kitchen Finks
+4	Cabal Therapy
+4	Thoughtseize
+4	Remand
+1	Mana Leak
+2	Collective Brutality
+1	Gideon, Ally of Zendikar
+2	Sword of Fire and Ice
+3	Detention Sphere
+1	Mox Diamond
+4	Darkslick Shores
+3	Seachrome Coast
+2	Mystic Gate
+2	Hallowed Fountain
+4	Watery Grave
+2	Shambling Vent
+1	Swamp
+3	Gemstone Mine
+1	Mana Confluence
+1	Fetid Heath
+Sideboard
+1	Collective Brutality
+3	Rest in Peace
+4	Nyx-Fleece Ram
+1	Sword of Light and Shadow
+2	Ashiok, Nightmare Weaver
+2	Deathmark
+2	Cursed Totem

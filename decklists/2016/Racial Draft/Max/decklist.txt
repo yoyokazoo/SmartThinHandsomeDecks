@@ -1,3 +1,21 @@
-Maindeck:
-
-Sideboard:
+4	Llanowar Elves
+4	Arbor Elf
+4	Fyndhorn Elves
+1	Eladamri, Lord of Leaves
+4	Elvish Warchief
+3	Lin-Sivvi, Defiant Ear-o
+4	Judge of Currents
+4	Seeker of Skybreak
+4	Sylvan Messenger
+4	Elvish Archdruid
+2	Ezuri, Renegade Leader
+4	Wirewood Symbiote
+4	Wirewood Lodge
+14	Forest
+Sideboard
+3	Nissa Revane
+3	Nissa's Chosen
+2	Joraga Warcaller
+1	Ezuri, Renegade Leader
+4	Wirewood Pride
+2	Eladamri, Lord of Leaves

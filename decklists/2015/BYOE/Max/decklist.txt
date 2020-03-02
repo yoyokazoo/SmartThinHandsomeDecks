@@ -1,3 +1,23 @@
-Maindeck:
-
-Sideboard:
+4	Golgari Grave-Troll
+4	Golgari Thug
+3	Ichorid
+4	Narcomoeba
+4	Putrid Imp
+4	Stinkweed Imp
+4	Tireless Tribe
+4	Bridge from Below
+4	Breakthrough
+4	Cabal Therapy
+4	Careful Study
+2	Dread Return
+4	Cephalid Coliseum
+4	City of Brass
+4	Gemstone Mine
+3	Tarnished Citadel
+Sideboard
+4	Leyline of the Void
+1	Angel of Despair
+3	Winds of Change
+4	Firestorm
+2	Flame-Kin Zealot
+1	Ichorid

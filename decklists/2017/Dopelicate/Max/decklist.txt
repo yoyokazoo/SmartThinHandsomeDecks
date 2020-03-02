@@ -1,3 +1,10 @@
-Maindeck:
-
-Sideboard:
+Monastery Mentor
+Compulsive Research
+Dark Confidant
+Lightning Bolt
+Oracle of Mul Daya
+Nicol Bolas, Planeswalker
+Coalition Relic
+Grand Coliseum
+Gilded Lotus
+Nykthos, Shrine to Nyx

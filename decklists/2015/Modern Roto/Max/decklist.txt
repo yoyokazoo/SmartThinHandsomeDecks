@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Lightning Bolt
+Figure of Destiny
+Sword of War and Peace
+Arid Mesa
+Tectonic Edge
+Sacred Foundry
+Goblin Guide
+Zurgo Bellstriker
+Rift Bolt
+Burst Lightning
+Searing Blaze
+Brimstone Volley
+Young Pyromancer
+Tattermunge Maniac
+Shrine of Burning Rage
+Keldon Marauders
+Incinerate
+Lava Spike
+Hellspark Elemental
+Searing Spear
+Volcanic Hammer
+Monastery Swiftspear
+Searing Blood
+Staggershock
+Worship
+Char
+Flame Javelin
+Eidolon of the Great Revel
+Vexing Devil
+Magma Jet
+Shard Volley
+Skullcrack
+Molten Rain
+Firedrinker Satyr
+Smash to Smithereens
+Blood Moon
+Kargan Dragonlord
+Koth of the Hammer
+Forked Bolt
+Ball Lightning
+Thundermaw Hellkite
+Ulamog, the Infinite Gyre
+Bonfire of the Damned
+Zo-Zu the Punisher
+Skred

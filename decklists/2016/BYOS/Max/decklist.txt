@@ -1,3 +1,23 @@
-Maindeck:
-
-Sideboard:
+4	Force of Will
+4	Mental Misstep
+3	Force Spike
+3	Spell Snare
+4	Counterspell
+3	Dismiss
+2	Nevinyrral's Disk
+2	Teferi, Mage of Zhalfir
+4	Vendilion Clique
+1	Karn Liberated
+4	Ancestral Vision
+20	Island
+4	Wasteland
+1	Stalking Stones
+1	Academy Ruins
+Sideboard
+2	Batterskull
+1	Spell Snare
+4	Tormod's Crypt
+1	Dismiss
+2	Spellskite
+2	Hurkyl's Recall
+3	Torpor Orb

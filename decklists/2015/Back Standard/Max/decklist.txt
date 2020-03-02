@@ -1,25 +1,21 @@
-Maindeck:
-4	Kami of the Crescent Moon
-4	Howling Mine
-4	Sudden Impact
-4	Remand
-4	Exhaustion
-4	Gigadrowse
-4	Eye of Nowhere
-4	Ebony Owl Netsuke
-4	Boomerang
-2	Pyroclasm
-	
-11	Island
-4	Steam Vents
-4	Shivan Reef
-2	Mikokoro, Center of the Sea
-1	Mountain
+4	Cloudgoat Ranger
+4	Goldmeadow Stalwart
+4	Figure of Destiny
+4	Knight of Meadowgrain
+4	Wizened Cenn
+4	Ajani Vengeant
+4	Path to Exile
+4	Spectral Procession
+3	Glorious Anthem
+9	Plains
+4	Battlefield Forge
+4	Rugged Prairie
+4	Windbrisk Heights
+2	Mutavault
+2	Rustic Clachan
 Sideboard
-2	Pyroclasm
-4	Cerebral Vortex
-1	Evacuation
-3	Gaze of Adamaro
-1	Goblin Flectomancer
-1	Mana Leak
-3	Twincast
+4	Burrenton Forge-Tender
+4	Reveillark
+3	Elspeth, Knight-Errant
+2	Banefire
+2	Ranger of Eos

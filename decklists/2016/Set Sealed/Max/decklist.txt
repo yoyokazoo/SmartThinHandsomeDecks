@@ -1,3 +1,29 @@
-Maindeck:
-
-Sideboard:
+4	Counterspell
+4	Memory Lapse
+4	Power Sink
+1	Miscalculation
+3	Dictate of Karametra
+3	Palinchron
+4	Stroke of Genius
+2	Deep Analysis
+1	Glassdust Hulk
+1	Architects of Will
+1	Compulsion
+1	Fellwar Stone
+3	Boomerang
+1	Maze of Ith
+4	Breeding Pool
+4	Simic Guildgate
+2	Mana Confluence
+16	Snow-Covered Island
+1	Snow-Covered Forest
+Sideboard
+1	Boomerang
+1	Deep Analysis
+2	Mana Short
+1	Dictate of Karametra
+1	Palinchron
+4	Tormod's Crypt
+2	Flashfreeze
+2	Annul
+1	Opportunity

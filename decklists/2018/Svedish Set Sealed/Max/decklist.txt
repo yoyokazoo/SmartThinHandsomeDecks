@@ -1,3 +1,29 @@
-Maindeck:
-
-Sideboard:
+4	Elves of Deep Shadow
+4	Birds of Paradise
+4	Llanowar Elves
+4	Meddling Mage
+4	Kitchen Finks
+2	Thalia, Heretic Cathar
+3	Glare of Subdual
+4	Winter Orb
+4	Remand
+2	Gisela, the Broken Blade
+1	Negate
+1	Baffling End
+1	Sword of Body and Mind
+4	City of Brass
+4	Temple Garden
+4	Razorverge Thicket
+1	Forest
+4	Mystic Gate
+4	Wasteland
+1	Treva's Ruins
+Sideboard
+2	Armageddon
+1	Sword of Body and Mind
+1	Glare of Subdual
+3	Wheel of Sun and Moon
+1	Wickerbough Elder
+1	Naturalize
+4	Propaganda
+2	Faith's Fetters

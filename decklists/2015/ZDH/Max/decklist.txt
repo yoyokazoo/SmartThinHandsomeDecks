@@ -1,3 +1,82 @@
-Maindeck:
-
-Sideboard:
+Lightning Bolt
+Force Spike
+Mox Diamond
+Ancestral Vision
+Brainstorm
+Preordain
+Mystical Tutor
+Mana Vault
+Sol Ring
+Mana Crypt
+Everflowing Chalice
+Stasis
+Winter Orb
+Into the Roil
+Mind Stone
+Izzet Signet
+Remand
+Memory Lapse
+Miscalculation
+Mana Drain
+Counterspell
+Negate
+Vendilion Clique
+Trinket Mage
+Dack Fayden
+Thirst for Knowledge
+Crucible of Worlds
+Compulsive Research
+Coalition Relic
+Basalt Monolith
+Darksteel Ingot
+Jace Beleren
+Worn Powerstone
+Dismiss
+Jace, the Mind Sculptor
+Fact or Fiction
+Steam Augury
+Deep Analysis
+Fire // Ice
+Thran Dynamo
+Rising Waters
+Mulldrifter
+Treachery
+Force of Will
+Tamiyo, the Moon Sage
+Turn // Burn
+Gilded Lotus
+Aetherling
+Frost Titan
+Wildfire
+Jokulhaups
+Upheaval
+Burning of Xinye
+Bonfire of the Damned
+Power Sink
+Bloodstained Mire
+Scalding Tarn
+Flooded Strand
+Polluted Delta
+Misty Rainforest
+Arid Mesa
+Wooded Foothills
+Volcanic Island
+Steam Vents
+Sulfur Falls
+Temple of Epiphany
+Shivan Reef
+Command Tower
+Izzet Boilerworks
+Lonely Sandbar
+Forgotten Cave
+Saprazzan Skerry
+Sandstone Needle
+Cascade Bluffs
+Ancient Tomb
+Strip Mine
+Wasteland
+Tectonic Edge
+Dust Bowl
+Ral Zarek
+3 Mountain
+17 Island

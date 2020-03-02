@@ -1,3 +1,26 @@
-Maindeck:
-
-Sideboard:
+4	Gladecover Scout
+4	Slippery Bogle
+4	Kor Spiritdancer
+3	True Believer
+4	Ethereal Armor
+4	Gryff's Boon
+4	Rancor
+4	Spider Umbra
+4	Hyena Umbra
+2	Spirit Mantle
+2	Unflinching Courage
+1	Cartouche of Solidarity
+4	Wooded Foothills
+4	Windswept Heath
+4	Savannah
+3	Verdant Catacombs
+4	Horizon Canopy
+1	Forest
+Sideboard
+2	Suppression Field
+3	Runed Halo
+3	Kor Firewalker
+1	Unflinching Courage
+1	Spirit Link
+2	Seal of Primordium
+3	Silent Gravestone

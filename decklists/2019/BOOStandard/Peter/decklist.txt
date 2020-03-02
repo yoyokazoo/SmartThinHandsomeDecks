@@ -2,7 +2,7 @@
 3	Chart a Course
 3	Diabolic Edict
 1	Disrupt
-4	Emrakul the Promised End
+4	Emrakul, the Promised End
 3	Frantic Search
 4	Intuition
 3	Liliana, the Last Hope
