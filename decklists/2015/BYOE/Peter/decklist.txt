@@ -1,3 +1,26 @@
-Maindeck:
-
-Sideboard:
+4	Golgari Grave-Troll
+4	Ichorid
+4	Stinkweed Imp
+4	Narcomoeba
+3	Golgari Thug
+3	Putrid Imp
+4	Cabal Therapy
+4	Breakthrough
+4	Careful Study
+4	Bridge from Below
+4	Lion's Eye Diamond
+4	Burning Inquiry
+1	Dread Return
+4	Cephalid Coliseum
+4	City of Brass
+4	Gemstone Mine
+1	Tarnished Citadel
+Sideboard
+4	Firestorm
+3	Demystify
+2	Dread Return
+2	Flame-Kin Zealot
+1	Ancient Grudge
+1	Darkblast
+1	Smelt
+1	Shattering Spree

@@ -1,3 +1,10 @@
-Maindeck:
-
-Sideboard:
+Aven Trailblazer
+Evasive Action
+Drag Down
+Tribal Flames
+Matca Rioters
+Traveler's Amulet
+Evolving Wilds
+Krosan Verge
+Etched Oracle
+Frenzied Tilling

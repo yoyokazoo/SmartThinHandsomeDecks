@@ -1,3 +1,34 @@
-Maindeck:
-
-Sideboard:
+1	Emrakul, the Aeons Torn
+1	Surreal Memoir
+2	Nahiri, the Harbinger
+2	Nearheath Chaplain
+1	Angelic Purge
+1	Staggershock
+2	Dauntless Cathar
+2	Fiery Temper
+1	Bound by Moonsilver
+2	Tormenting Voice
+2	Puncturing Light
+1	Wall of Omens
+2	Thraben Inspector
+1	Flame Slash
+1	Oust
+1	Gryff's Boon
+1	Evolving Wilds
+2	Stone Quarry
+7	Plains
+7	Mountain
+Sideboard
+2	Strength of Arms
+2	True-Faith Censer
+2	Insolent Neonate
+1	Structural Distortion
+1	Dual Shot
+1	Guard Duty
+1	Raid Bombardment
+1	Soul's Attendant
+1	Vent Sentinel
+1	Ogre Sentry
+1	Spawning Breath
+1	Lone Missionary
+1	Angelic Purge

@@ -1,3 +1,27 @@
-Maindeck:
-
-Sideboard:
+4	Chrome Mox
+4	Vampire Hexmage
+4	Dark Depths
+2	Tormod's Crypt
+4	Thopter Foundry
+6	Snow-Covered Island
+7	Snow-Covered Swamp
+1	Scrying Sheets
+4	Sword of the Meek
+4	Thirst for Knowledge
+4	Bitterblossom
+4	Tolaria West
+2	Disfigure
+3	Urborg, Tomb of Yawgmoth
+4	River of Tears
+3	Vendilion Clique
+Sideboard
+4	Spell Pierce
+2	Disfigure
+2	Tormod's Crypt
+1	Vendilion Clique
+1	Slaughter Pact
+1	Phyrexian Revoker
+1	Nix
+1	Deathmark
+1	Negate
+1	Rune Snag

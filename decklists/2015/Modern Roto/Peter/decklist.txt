@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Snapcaster Mage
+Spell Snare
+Remand
+Spellskite
+Venser, Shaper Savant
+Steam Vents
+Cascade Bluffs
+Kiki-Jiki, Mirror Breaker
+Splinter Twin
+Gifts Ungiven
+Lightning Helix
+Deceiver Exarch
+Pestermite
+Reveillark
+Rugged Prairie
+Ajani Vengeant
+Wall of Omens
+Body Double
+Celestial Colonnade
+Condemn
+Glacial Fortress
+Sulfur Falls
+Village Bell-Ringer
+Lone Missionary
+Dispel
+Wear // Tear
+Mulldrifter
+Gut Shot
+Resurrection
+Clifftop Retreat
+Battlefield Forge
+Shivan Reef
+Adarkar Wastes
+Anger of the Gods
+Timely Reinforcements
+Azorius Signet
+Wrath of God
+Boros Signet
+Avalanche Riders
+Momentary Blink
+Annex
+Izzet Signet
+Roast
+Alesha, Who Smiles at Death
+Midnight Guard

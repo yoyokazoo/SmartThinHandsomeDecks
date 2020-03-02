@@ -1,3 +1,32 @@
-Maindeck:
-
-Sideboard:
+4	Inquisition of Kozilek
+4	Thoughtseize
+4	Hangarback Walker
+1	Kitesail Freebooter
+1	Chainer's Edict
+4	Lingering Souls
+2	Ruin Raider
+1	Unmake
+4	Gideon, Ally of Zendikar
+3	Sorin, Lord of Innistrad
+4	Braids, Cabal Minion
+1	Tithe
+1	Funeral Charm
+1	Legion's Landing
+1	Damnation
+5	Swamp
+3	Plains
+3	Windbrisk Heights
+4	Shambling Vent
+4	Fetid Heath
+4	Caves of Koilos
+1	Urborg, Tomb of Yawgmoth
+Sideboard
+3	Oblivion Ring
+1	Ob Nixilis Reignited
+2	Batterskull
+2	Damnation
+1	Gideon Jura
+1	Settle the Wreckage
+3	Doom Blade
+1	Surgical Extraction
+1	Tainted Field

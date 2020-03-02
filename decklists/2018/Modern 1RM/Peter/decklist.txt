@@ -1,3 +1,64 @@
-Maindeck:
+Moment of Craving
+Search for Azcanta
+The Scarab God
+Liliana, Death's Majesty
+Fatal Push
+Concealed Courtyard
+Collective Brutality
+Port Town
+Oath of Jace
+Evolving Wilds
+Jace, Vryn's Prodigy
+Dismal Backwater
+Polluted Delta
+Urborg, Tomb of Yawgmoth
+Brain Maggot
+Temple of Deceit
+Temple of Silence
+Blood Baron of Vizkopa
+Obzedat, Ghost Council
+Supreme Verdict
+Drowned Catacomb
+Griselbrand
+Lingering Souls
+Unburial Rites
+Grave Titan
+Dismember
+Sphere of the Suns
+Wurmcoil Engine
+Grave Titan
+Inquisition of Kozilek
+Creeping Tar Pit
+Merfolk Looter
+Path to Exile
+Arcane Sanctum
+Fetid Heath
+Mystic Gate
+Vendilion Clique
+Vivid Marsh
+Mind Stone
+Coalition Relic
+Damnation
+Dreadship Reef
+Coldsteel Heart
+Azorius Chancery
+Orzhov Signet
+Compulsive Research
+Fellwar Stone
+Wrath of God
+Goryo's Vengeance
+Gifts Ungiven
+Wayfarer's Bauble
+Thirst for Knowledge
+4 Swamp
+3 Plains
+2 Island
 
-Sideboard:
+Sideboard
+
+Sphinx of the Steel Wind
+Iona, Shield of Emeria
+Duress
+Echoing Truth
+Pithing Needle
+Lifebane Zombie

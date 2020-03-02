@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Wasteland
+Reanimate
+Verdant Catacombs
+Windswept Heath
+Marsh Flats
+Knight of the Reliquary
+Life from the Loam
+Lotus Cobra
+Crucible of Worlds
+Elesh Norn, Grand Cenobite
+Exploration
+Grove of the Burnwillows
+Punishing Fire
+Gifts Ungiven
+Unburial Rites
+Sylvan Library
+Kitchen Finks
+Scrubland
+Overgrown Tomb
+Primeval Titan
+Vampire Hexmage
+Dark Depths
+Urborg, Tomb of Yawgmoth
+Crop Rotation
+Grave Titan
+Garruk Wildspeaker
+Thespian's Stage
+Razorverge Thicket
+Lingering Souls
+Farseek
+Raven's Crime
+Golgari Rot Farm
+Orzhov Basilica
+Selesnya Sanctuary
+Wall of Roots
+Gruul Turf
+Unearth
+Ancient Grudge
+Breeding Pool
+Monastery Mentor
+Scrabbling Claws
+Godless Shrine
+Tranquil Thicket
+Barren Moor
+Krosan Reclamation

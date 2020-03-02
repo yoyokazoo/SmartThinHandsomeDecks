@@ -1,3 +1,86 @@
-Maindeck:
-
-Sideboard:
+Elves of Deep Shadow
+Llanowar Elves
+Fyndhorn Elves
+Elvish Mystic
+Birds of Paradise
+Avacyn's Pilgrim
+Viscera Seer
+Sol Ring
+Green Sun's Zenith
+Skullclamp
+Reanimate
+Vampiric Tutor
+Worldly Tutor
+Summoner's Pact
+Sylvan Ranger
+Wall of Roots
+Qasali Pridemage
+Stoneforge Mystic
+Fauna Shaman
+Melira, Sylvok Outcast
+Sakura-Tribe Elder
+Satyr Wayfinder
+Survival of the Fittest
+Demonic Tutor
+Animate Dead
+Earthcraft
+Mind Stone
+Rampant Growth
+Nature's Lore
+Three Visits
+Sin Collector
+Reclamation Sage
+Spike Feeder
+Civic Wayfinder
+Kitchen Finks
+Eternal Witness
+Wood Elves
+Chord of Calling
+Idyllic Tutor
+Squirrel Nest
+Cultivate
+Worn Powerstone
+Necrotic Ooze
+Restoration Angel
+Birthing Pod
+Harmonize
+Makeshift Mannequin
+Diabolic Servitude
+Natural Order
+Deranged Hermit
+Acidic Slime
+Reveillark
+Shriekmaw
+Archangel of Thune
+Living Death
+Unburial Rites
+Mikaeus, the Unhallowed
+Triskelion
+Phyrexian Devourer
+Debtors' Knell
+Woodfall Primus
+Wooded Foothills
+Windswept Heath
+Flooded Strand
+Polluted Delta
+Bloodstained Mire
+Arid Mesa
+Misty Rainforest
+Verdant Catacombs
+Marsh Flats
+Dryad Arbor
+Savannah
+Bayou
+Scrubland
+Murmuring Bosk
+Temple Garden
+Overgrown Tomb
+Godless Shrine
+Krosan Verge
+Tranquil Thicket
+Secluded Steppe
+Barren Moor
+Siege Rhino
+11 Snow-Covered Forest
+3 Snow-Covered Swamp
+3 Snow-Covered Plains

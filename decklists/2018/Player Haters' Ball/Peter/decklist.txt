@@ -1,3 +1,28 @@
-Maindeck:
-
-Sideboard:
+4	Ashen Ghoul
+4	Badlands
+4	Blackcleave Cliffs
+4	Burning Inquiry
+2	Conflagrate
+4	Control of the Court
+4	Devastating Dreams
+2	Firestorm
+4	Flameblade Adept
+4	Goblin Lore
+4	Hollow One
+4	Krovikan Horror
+3	Arid Mesa
+1	Taiga
+4	Tasigur, the Golden Fang
+4	Verdant Catacombs
+4	Wooded Foothills
+Sideboard
+2	Coffin Purge
+1	Darkblast
+1	Lava Dart
+3	Overmaster
+2	Gnaw to the Bone
+1	Tortured Existence
+1	Rotting Rats
+1	Ingot Chewer
+2	Rakdos Charm
+1	Firestorm
