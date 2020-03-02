@@ -1,3 +1,10 @@
-Maindeck:
-
-Sideboard:
+Cataclysm
+Disrupt
+Bloodsoaked Champion
+Eidolon of the Great Revel
+Beast Within
+Knight of the Reliquary
+Mutavault
+Ankh of Mishra
+Mutagenic Growth
+Unexpected Potential

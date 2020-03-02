@@ -1,3 +1,27 @@
-Maindeck:
-
-Sideboard:
+4	Vengevine
+3	Commune with the Gods
+4	Cryptbreaker
+1	Liliana, the Last Hope
+4	Lotleth Troll
+3	Carrion Feeder
+3	Zombie Trailblazer
+3	Grisly Salvage
+4	Buried Alive
+4	Dance of the Dead
+1	Necrotic Ooze
+4	Gravecrawler
+1	Walking Ballista
+1	Phyrexian Devourer
+1	Forest
+2	Marsh Flats
+3	Bloodstained Mire
+4	Bayou
+1	Scrubland
+5	Swamp
+4	Verdant Catacombs
+Sideboard
+3	Attrition
+4	Serenity
+3	Extirpate
+2	Innocent Blood
+3	Life Goes On

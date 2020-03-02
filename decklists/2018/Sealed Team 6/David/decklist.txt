@@ -1,3 +1,17 @@
-Maindeck:
+Cataclysm
+Disrupt
+Bloodsoaked Champion
+Eidolon of the Great Revel
+Beast Within
+Knight of the Reliquary
+Mutavault
+Ankh of Mishra
+Mutagenic Growth
+Unexpected Potential
 
-Sideboard:
+Gaddock Teeg
+Cold-Eyed Selkie
+Phyrexian Revoker
+Viridian Corrupter
+Kitesail Freebooter
+Rakdos Cackler

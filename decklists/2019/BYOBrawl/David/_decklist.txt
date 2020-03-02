@@ -1,62 +1,62 @@
-	Mausoleum Wanderer
-	Silent Departure
-	Vapor Snag
-	Gitaxian Probe
-	Mental Misstep
-	Ponder
-	Dispel
-	Preordain
-	Condemn
-	Snapcaster Mage
-	Invisible Stalker
-	Stoneforge Mystic
-	Spellstutter Sprite
-	Selfless Spirit
-	Apostle's Blessing
-	Mana Leak
-	Negate
-	Censor
-	Spectral Flight
-	Quench
-	Runechanter's Pike
-	Thada Adel, Acquisitor
-	Spell Queller
-	Deputy of Detention
-	Gideon of the Trials
-	Oblivion Ring
-	Sword of War and Peace
-	Nevermore
-	Absorb
-	Sower of Temptation
-	Jace, the Mind Sculptor
-	Cryptic Command
-	Cast Out
-	Gideon's Intervention
-	Day of Judgment
-	Batterskull
-	Hallowed Fountain
-	Celestial Colonnade
-	Sejiri Steppe
-	Tectonic Edge
-	Glacial Fortress
-	Irrigated Farmland
-	Terramorphic Expanse
-9	Island
-10	Plains
-	
-	Scrabbling Claws
-	Austere Command
-	Stony Silence
-	Torpor Orb
-	Leyline of Anticipation
-	Kor Firewalker
-	Essence Scatter
-	Spellskite
-	Aven Mindcensor
-	Redirect
-	Basilisk Collar
-	Celestial Purge
-	Blessed Alliance
-	Imprisoned in the Moon
-	Mind Control
 Geist of Saint Traft
+Mausoleum Wanderer
+Silent Departure
+Vapor Snag
+Gitaxian Probe
+Mental Misstep
+Ponder
+Dispel
+Preordain
+Condemn
+Snapcaster Mage
+Invisible Stalker
+Stoneforge Mystic
+Spellstutter Sprite
+Selfless Spirit
+Apostle's Blessing
+Mana Leak
+Negate
+Censor
+Spectral Flight
+Quench
+Runechanter's Pike
+Thada Adel, Acquisitor
+Spell Queller
+Deputy of Detention
+Gideon of the Trials
+Oblivion Ring
+Sword of War and Peace
+Nevermore
+Absorb
+Sower of Temptation
+Jace, the Mind Sculptor
+Cryptic Command
+Cast Out
+Gideon's Intervention
+Day of Judgment
+Batterskull
+Hallowed Fountain
+Celestial Colonnade
+Sejiri Steppe
+Tectonic Edge
+Glacial Fortress
+Irrigated Farmland
+Terramorphic Expanse
+9 Island
+9 Plains
+Sideboard
+Scrabbling Claws
+Austere Command
+Stony Silence
+Torpor Orb
+Leyline of Anticipation
+Kor Firewalker
+Essence Scatter
+Spellskite
+Aven Mindcensor
+Redirect
+Basilisk Collar
+Celestial Purge
+Blessed Alliance
+Imprisoned in the Moon
+Mind Control

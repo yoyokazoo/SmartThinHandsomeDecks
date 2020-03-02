@@ -14,7 +14,7 @@
 2	Guildmages' Forum
 4	Plains
 9	Swamp
-	
+Sideboard
 4	Dead Weight
 2	Pack Rat
 2	Pithing Needle

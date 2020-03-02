@@ -1,3 +1,33 @@
-Maindeck:
-
-Sideboard:
+4	Grave Titan
+1	Solemn Simulacrum
+1	Garruk, Primal Hunter
+1	Massacre Wurm
+1	Thrun, the Last Troll
+1	Sword of Feast and Famine
+4	Birds of Paradise
+1	Acidic Slime
+1	Liliana Vess
+1	Noble Hierarch
+1	Rotting Rats
+4	Satyr Wayfinder
+3	Courser of Kruphix
+2	Nekrataal
+4	Animate Dead
+1	Sylvan Library
+2	Diabolic Intent
+1	Star Compass
+3	Recurring Nightmare
+1	Spike Weaver
+	
+2	Terramorphic Expanse
+4	Llanowar Wastes
+3	City of Brass
+11	Forest
+4	Swamp
+Sideboard
+4	Gloom
+4	Duress
+3	Naturalize
+1	Grave Pact
+2	Bile Blight
+1	Go for the Throat

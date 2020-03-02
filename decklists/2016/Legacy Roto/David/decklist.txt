@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Grim Monolith
+Batterskull
+Spellskite
+Sundering Titan
+Scalding Tarn
+Thirst for Knowledge
+Basalt Monolith
+Trinket Mage
+Thopter Foundry
+Steam Vents
+Myr Battlesphere
+Blood Crypt
+Tundra
+Mox Opal
+Muddle the Mixture
+Lodestone Golem
+Seat of the Synod
+Faithless Looting
+Wake Thrasher
+Transmute Artifact
+Mindslaver
+Power Artifact
+Great Furnace
+Vault of Whispers
+Izzet Charm
+Metalworker
+Academy Ruins
+Gloom
+Daretti, Scrap Savant
+Staff of Domination
+Tezzeret the Seeker
+Tezzeret, Agent of Bolas
+Darksteel Citadel
+Goblin Welder
+Izzet Signet
+Sword of the Meek
+Engineered Explosives
+Nihil Spellbomb
+Thoughtcast
+Galvanic Blast
+Defense Grid
+Blood Moon
+Chaos Warp
+Executioner's Capsule
+Firespout

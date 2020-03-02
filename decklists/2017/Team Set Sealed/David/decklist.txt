@@ -1,3 +1,38 @@
-Maindeck:
-
-Sideboard:
+4	Noble Hierarch
+4	Tarmogoyf
+4	Knight of the Reliquary
+2	Siege Rhino
+4	Natural Order
+1	Progenitus
+4	Liliana of the Veil
+3	Thoughtseize
+3	Duress
+1	Vindicate
+3	Path to Exile
+1	Dead Weight
+1	Dromoka's Command
+1	Fatal Push
+1	Murderous Cut
+4	Windswept Heath
+4	Godless Shrine
+4	Llanowar Wastes
+1	Hissing Quagmire
+1	Horizon Canopy
+1	Treetop Village
+1	Urborg, Tomb of Yawgmoth
+1	Caves of Koilos
+1	Dryad Arbor
+2	Forest
+1	Plains
+2	Swamp
+Sideboard
+2	Siege Rhino
+1	Thoughtseize
+1	Duress
+2	Vindicate
+3	Warmth
+1	Pernicious Deed
+2	Light of Day
+1	Path to Exile
+1	Naturalize
+1	Gaddock Teeg

@@ -1,3 +1,31 @@
-Maindeck:
-
-Sideboard:
+4	Deathrite Shaman
+2	Pack Rat
+4	Tarmogoyf
+2	Courser of Kruphix
+4	Bloodbraid Elf
+3	Duress
+4	Lightning Bolt
+3	Blightning
+1	Maelstrom Pulse
+2	Abrupt Decay
+3	Punishing Fire
+2	Garruk Wildspeaker
+1	Grave Titan
+1	Broodmate Dragon
+4	Grove of the Burnwillows
+4	Verdant Catacombs
+2	Marsh Flats
+4	Overgrown Tomb
+3	Blood Crypt
+1	Forest
+1	Mountain
+3	Swamp
+2	Stomping Ground
+Sideboard
+4	Leyline of the Void
+3	Pyroclasm
+1	Bituminous Blast
+2	Maelstrom Pulse
+1	Blightning
+1	Rakdos Charm
+2	Slaughter Games

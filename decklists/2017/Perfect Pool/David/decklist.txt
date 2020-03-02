@@ -1,3 +1,21 @@
-Maindeck:
-
-Sideboard:
+3	Vampire Lacerator
+3	Guul Draz Vampire
+3	Disfigure
+1	Surrakar Marauder
+2	Hideous End
+3	Vampire Hexmage
+3	Gatekeeper of Malakir
+3	Vampire Nighthawk
+1	Bloodghast
+1	Malakir Bloodwitch
+1	Eldrazi Monument
+16	Swamp
+Sideboard
+1	Hideous End
+2	Crypt Ripper
+1	Adventuring Gear
+3	Blood Seeker
+1	Giant Scorpion
+3	Vampire's Bite
+1	Soul Stair Expedition
+3	Heartstabber Mosquito

@@ -1,3 +1,63 @@
-Maindeck:
+Moment of Craving
+Legion's Landing
+Start // Finish
+Fatal Push
+Smuggler's Copter
+Collective Brutality
+Anguished Unmaking
+Gideon, Ally of Zendikar
+Hangarback Walker
+Secure the Wastes
+Sorin, Solemn Visitor
+Caves of Koilos
+Banishing Light
+Brimaz, King of Oreskos
+Elspeth, Sun's Champion
+Doom Blade
+Godless Shrine
+Precinct Captain
+Lingering Souls
+Liliana of the Veil
+Timely Reinforcements
+Blade Splicer
+Hero of Bladehold
+Elspeth Tirel
+Honor of the Pure
+Inquisition of Kozilek
+Tectonic Edge
+Marsh Flats
+Honor of the Pure
+Zealous Persecution
+Path to Exile
+Elspeth, Knight-Errant
+Fetid Heath
+Spectral Procession
+Bitterblossom
+Thoughtseize
+Caves of Koilos
+Funeral Charm
+Godless Shrine
+Dark Confidant
+Caves of Koilos
+Wrath of God
+Sword of Fire and Ice
+Raise the Alarm
+11 Plains
+5 Swamp
 
-Sideboard:
+Sideboard
+
+Ink-Eyes, Servant of Oni
+Samurai of the Pale Curtain
+Auriok Champion
+Pithing Needle
+Luminesce
+Condemn
+Slaughter Pact
+Damnation
+Duress
+Gloom Surgeon
+Crux of Fate
+Blood Baron of Vizkopa
+Kalitas, Traitor of Ghet
+Sunscourge Champion

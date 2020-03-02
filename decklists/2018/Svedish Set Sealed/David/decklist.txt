@@ -1,3 +1,32 @@
-Maindeck:
-
-Sideboard:
+1	Baral, Chief of Compliance
+4	Whir of Invention
+3	Vendilion Clique
+4	Grindstone
+3	Painter's Servant
+2	Vedalken Shackles
+4	Counterspell
+4	Mana Leak
+1	Forbid
+1	Dismiss
+1	Negate
+1	Fact or Fiction
+1	Back to Basics
+3	Into the Roil
+1	Pithing Needle
+1	Serum Visions
+1	Mox Diamond
+1	Faerie Conclave
+1	City of Traitors
+1	Remote Isle
+19	Island
+1	Misty Rainforest
+1	Tectonic Edge
+Sideboard
+4	Plumeveil
+2	Back to Basics
+4	Chill
+1	Dispel
+1	Vedalken Shackles
+1	Pithing Needle
+1	Vendilion Clique
+1	Fact or Fiction

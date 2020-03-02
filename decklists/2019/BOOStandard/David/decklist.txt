@@ -11,7 +11,7 @@
 3	Liliana, the Last Hope
 4	Wasteland
 20	Swamp
-	
+Sideboard
 4	Jinxed Idol
 3	Diabolic Edict
 1	Liliana, the Last Hope

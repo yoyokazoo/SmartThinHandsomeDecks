@@ -1,3 +1,29 @@
 Maindeck:
-
-Sideboard:
+4	Flash
+4	Protean Hulk
+1	Mogg Fanatic
+1	Reveillark
+2	Body Double
+1	Viscera Seer
+4	Pact of Negation
+4	Force of Will
+4	Vampiric Tutor
+4	Leyline of Sanctity
+1	Mystical Tutor
+4	Summoner's Pact
+4	Brainstorm
+1	Peek
+4	Duress
+1	Boomerang
+4	Simian Spirit Guide
+4	Watery Grave
+4	Gemstone Mine
+4	Underground River
+Sideboard
+4	Gemstone Caverns
+1	Reveillark
+1	Boomerang
+1	Mogg Fanatic
+3	Mystical Tutor
+4	Leyline of the Void
+1	Viscera Seer
