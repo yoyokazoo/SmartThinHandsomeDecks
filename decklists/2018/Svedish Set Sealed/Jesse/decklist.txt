@@ -1,3 +1,32 @@
-Maindeck:
-
-Sideboard:
+1	Phyrexian Revoker
+4	Eldrazi Mimic
+4	Matter Reshaper
+4	Thought-Knot Seer
+4	Reality Smasher
+1	Endbringer
+3	Phyrexian Metamorph
+4	Dismember
+1	Spatial Contortion
+2	Warping Wail
+1	Sangrite Backlash
+1	Jund Sojourners
+3	Talisman of Impulse
+1	Talisman of Unity
+4	Ancient Stirrings
+4	Eldrazi Temple
+4	Karplusan Forest
+1	Sulfurous Springs
+1	Fungal Reaches
+1	Gemstone Caverns
+1	Inkmoth Nexus
+4	Mutavault
+1	Tainted Wood
+1	Forest
+4	Shimmering Grotto
+Sideboard
+1	Spatial Contortion
+3	Ratchet Bomb
+2	Phyrexian Revoker
+2	Warping Wail
+4	Thorn of Amethyst
+3	Surgical Extraction

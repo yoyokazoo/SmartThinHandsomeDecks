@@ -1,3 +1,100 @@
-Maindeck:
-
-Sideboard:
+Sol Ring
+Mana Vault
+Mox Opal
+Mox Diamond
+Mana Crypt
+Voltaic Key
+Expedition Map
+Pithing Needle
+Skullclamp
+Brittle Effigy
+Manakin
+Millikin
+Plague Myr
+Epochrasite
+Mind Stone
+Everflowing Chalice
+Grim Monolith
+Umezawa's Jitte
+Lightning Greaves
+Palladium Myr
+Etched Champion
+Basalt Monolith
+Worn Powerstone
+Pristine Talisman
+Coalition Relic
+Crucible of Worlds
+Crystal Ball
+Oblivion Stone
+Sculpting Steel
+Lodestone Golem
+Thran Dynamo
+Icy Manipulator
+Prototype Portal
+Haunted Plate Mail
+Trading Post
+Karn, Silver Golem
+Kuldotha Forgemaster
+Batterskull
+Gilded Lotus
+Temporal Aperture
+Memory Jar
+Blinkmoth Urn
+Mishra's Helix
+Wurmcoil Engine
+Duplicant
+Mindslaver
+Myr Battlesphere
+Pentavus
+Triskelavus
+Karn Liberated
+All Is Dust
+Ugin, the Spirit Dragon
+Kozilek, Butcher of Truth
+Ulamog, the Infinite Gyre
+Blightsteel Colossus
+Strip Mine
+Wasteland
+Ghost Quarter
+Dust Bowl
+Tectonic Edge
+Rishadan Port
+Encroaching Wastes
+Gemstone Caverns
+Ancient Tomb
+Mishra's Workshop
+Crystal Vein
+Darksteel Citadel
+Deserted Temple
+Eye of Ugin
+Eldrazi Temple
+Mikokoro, Center of the Sea
+Mishra's Factory
+Homeward Path
+Mutavault
+Temple of the False God
+Vesuva
+Tomb of the Spirit Dragon
+Urza's Power Plant
+Urza's Mine
+Urza's Tower
+Dread Statuary
+Stalking Stones
+Miren, the Moaning Well
+Quicksand
+Scorched Ruins
+Springjack Pasture
+Zoetic Cavern
+Winding Canyons
+Blinkmoth Nexus
+Inkmoth Nexus
+Blasted Landscape
+Gargoyle Castle
+Mystifying Maze
+Petrified Field
+Radiant Fountain
+Rogue's Passage
+Buried Ruin
+Cathedral of War
+Urza's Factory
+Tangle Wire

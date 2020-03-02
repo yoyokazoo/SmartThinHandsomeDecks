@@ -50,6 +50,8 @@
 	Island
 5	Forest
 4	Mountain
+	Hazoret the Fervent
+Sideboard
 	Surrak Dragonclaw
 	Sudden Impact
 	Manabarbs
@@ -65,4 +67,3 @@
 	Glorious End
 	Insult // Injury
 	Searing Blaze
-	Hazoret the Fervent

@@ -27,3 +27,5 @@ Sideboard
 2	Journey to Nowhere
 4	Negate
 3	Flashfreeze
+2	Hindering Light
+1	Sanguine Bond

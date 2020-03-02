@@ -1,3 +1,21 @@
 Maindeck:
-
+3	Glimpse the Unthinkable
+1	Psychic Drain
+3	Remand
+3	Dimir Signet
+3	Muddle the Mixture
+1	Telling Time
+3	Induce Paranoia
+3	Last Gasp
+3	Compulsive Research
+3	Dimir Aqueduct
+10	Island
+4	Swamp
 Sideboard:
+1	Ribbons of Night
+3	Moroii
+1	Dimir Infiltrator
+3	Disembowel
+3	Vedalken Entrancer
+2	Surveilling Sprite
+3	Shred Memory

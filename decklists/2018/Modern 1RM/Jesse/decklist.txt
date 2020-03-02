@@ -1,3 +1,63 @@
-Maindeck:
+Negate
+Drowned Catacomb
+The Scarab God
+Disallow
+Torrential Gearhulk
+Collective Brutality
+Grasp of Darkness
+Ruinous Path
+Ugin, the Spirit Dragon
+Polluted Delta
+Ashiok, Nightmare Weaver
+Doom Blade
+Dimir Guildgate
+Watery Grave
+Jace, Architect of Thought
+Duress
+Tamiyo, the Moon Sage
+Evolving Wilds
+Snapcaster Mage
+Mana Leak
+Karn Liberated
+Consecrated Sphinx
+Darkslick Shores
+Mana Leak
+Deprive
+Creeping Tar Pit
+Misty Rainforest
+Duress
+Countersquall
+Executioner's Capsule
+Sunken Ruins
+Vendilion Clique
+Cryptic Command
+Venser, Shaper Savant
+Damnation
+Ancestral Vision
+Spell Snare
+Compulsive Research
+Mana Leak
+Mana Leak
+Hinder
+Vedalken Shackles
+Thirst for Knowledge
+11 Island
+5 Swamp
 
-Sideboard:
+Sideboard
+
+Threads of Disloyalty
+Last Word
+Kagemaro, First to Suffer
+Repeal
+Deathmark
+Terror
+Glen Elendra Archmage
+Brainbite
+Languish
+Doomwake Giant
+Drown in Sorrow
+Jace, Vryn's Prodigy
+Dragonlord Silumgar
+Cancel
+Jace, Unraveler of Secrets

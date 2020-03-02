@@ -1,3 +1,35 @@
-Maindeck:
-
-Sideboard:
+4	Nightshade Stinger
+3	Thoughtseize
+1	Repeal
+1	Briarberry Cohort
+1	Mana Leak
+2	Doom Blade
+3	Counterspell
+1	Snapback
+4	Spellstutter Sprite
+4	Scion of Oona
+1	Sword of Fire and Ice
+1	Phyrexian Arena
+4	Mistbind Clique
+4	Cryptic Command
+1	Sower of Temptation
+4	Secluded Glen
+4	Underground River
+4	Mutavault
+2	Drowned Catacomb
+1	Sunken Ruins
+1	Shivan Reef
+1	Steam Vents
+1	Blinkmoth Nexus
+1	Terramorphic Expanse
+3	Island
+3	Swamp
+Sideboard	
+3	Sower of Temptation
+1	Thoughtseize
+2	Doom Blade
+1	Counterspell
+2	Steal Artifact
+3	Peppersmoke
+2	Jace Beleren
+1	Phyrexian Arena

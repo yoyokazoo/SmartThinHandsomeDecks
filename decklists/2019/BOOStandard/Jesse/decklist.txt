@@ -1,0 +1,25 @@
+4	Opt
+3	Portent
+1	Whispers of the Muse
+3	Impulse
+1	Search for Azcanta
+4	Miscalculation
+2	Negate
+4	Counterspell
+2	Cancel
+1	Capsize
+4	Fact or Fiction
+4	Nevinyrral's Disk
+2	Emrakul, the Promised End
+1	Quicksand
+1	Stalking Stones
+4	Wasteland
+18	Island
+1	Svyelunite Temple
+Sideboard
+2	Vision Charm
+4	Grindstone
+3	Hydroblast
+4	Propaganda
+1	Capsize
+1	Entrancing Melody

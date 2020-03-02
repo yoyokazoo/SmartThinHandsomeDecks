@@ -47,7 +47,7 @@ Misty Rainforest
 Windswept Heath
 Sunpetal Grove
 Scattered Groves
-Forest
+11 Forest
 Plains
 Sideboard:
 Hokori, Dust Drinker

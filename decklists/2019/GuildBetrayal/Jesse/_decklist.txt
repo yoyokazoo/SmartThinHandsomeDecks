@@ -13,7 +13,7 @@
 10	Island
 9	Swamp
 1	Dimir Guildgate
-	
+Sideboard
 4	Knight of Autumn
 3	Ribbons of Night
 2	Jace, Architect of Thought

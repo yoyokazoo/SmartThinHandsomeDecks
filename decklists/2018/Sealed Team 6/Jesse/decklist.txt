@@ -1,3 +1,17 @@
-Maindeck:
+Expedition Map
+Thawing Glaciers
+Nicol Bolas, Planeswalker
+Orcish Settlers
+Mother of Runes
+Capsize
+Wild Wanderer
+Consuming Vapors
+Nevinyrral's Disk
+Dismiss
 
-Sideboard:
+Divert
+Orcish Librarian
+Thalia, Guardian of Thraben
+Go for the Throat
+Tireless Tracker
+Silent Specter

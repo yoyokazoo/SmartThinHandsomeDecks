@@ -1,3 +1,27 @@
 Maindeck:
-
-Sideboard:
+4	Birds of Paradise
+4	River Boa
+4	Saproling Burst
+4	Chimeric Idol
+4	Blastoderm
+3	Fires of Yavimaya
+3	Llanowar Elves
+3	Aura Mutation
+3	Ghitu Fire
+3	Kavu Titan
+3	Earthquake
+	
+6	Forest
+4	Karplusan Forest
+4	Mountain
+4	Brushland
+2	Rishadan Port
+1	Elfhame Palace
+1	Shivan Oasis
+Sideboard
+4	Simoon
+4	Boil
+3	Flashfires
+2	Blood Oath
+1	Lumbering Satyr
+1	Earthquake

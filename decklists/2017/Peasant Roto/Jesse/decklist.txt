@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Fact or Fiction
+Counterspell
+Mana Leak
+ Remand
+Preordain
+Sensei's Divining Top
+Brainstorm
+Enlightened Tutor
+Trinket Mage
+Azorius Chancery
+Shrine of Burning Rage
+Become Immense
+Diabolic Edict
+Perish
+Drown in Sorrow
+Elixir of Immortality
+Control Magic
+Smother
+Nature's Ruin
+Forbid
+Probe
+Fatal Push
+Murderous Cut
+Miscalculation
+Disfigure
+Into the Roil
+Relic of Progenitus
+Noxious Field
+Vault of Whispers
+Exclude
+Careful Consideration
+Sphinx's Tutelage
+Force Spike
+Barter in Blood
+Dismiss
+Jace's Ingenuity
+Arcane Sanctum
+Crumbling Necropolis
+Impulse
+Spell Snare
+Dissolve
+Void Shatter
+Frost Marsh
+Salt Marsh
+Annul

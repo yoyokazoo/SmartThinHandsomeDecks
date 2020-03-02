@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Entomb
+Polluted Delta
+Animate Dead
+Exhume
+Lotus Petal
+Underground Sea
+Badlands
+Duress
+Pyroblast
+Red Elemental Blast
+Necromancy
+Jin-Gitaxias, Core Augur
+Iona, Shield of Emeria
+Intuition
+Buried Alive
+Blackcleave Cliffs
+Pact of Negation
+Darkslick Shores
+Careful Study
+Firestorm
+Dance of the Dead
+Worldgorger Dragon
+City of Brass
+Mana Confluence
+Anger
+Gamble
+Deep Analysis
+Ideas Unbound
+Burning Wish
+Breakthrough
+Massacre
+Deathmark
+Shallow Grave
+Dragonlord Atarka
+Sutured Ghoul
+Kozilek, the Great Distortion
+Tainted Pact
+Read the Runes
+Magus of the Bazaar
+Enclave Cryptologist
+Tormenting Voice
+Piranha Marsh
+Cabal Therapy
+Bloodrite Invoker
+Chain of Vapor

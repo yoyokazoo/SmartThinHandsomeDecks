@@ -10,7 +10,7 @@
 4	Risk Factor
 1	Experimental Frenzy
 21	Mountain
-	
+Sideboard
 4	Mizzium Mortars
 3	Experimental Frenzy
 2	Madcap Skills

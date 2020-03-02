@@ -1,3 +1,24 @@
-Maindeck:
-
-Sideboard:
+4	Joraga Nullspeaker
+4	Priest of Emrakul
+4	Eldrazi Mimic
+4	Void Savage
+4	Reality Smasher
+4	Endless One
+4	Thought-Knot Seer
+3	Matter Reshaper
+3	Walker of the Wastes
+3	All Is Dust
+4	Eye of Ugin
+19	Wastes
+Sideboard
+4	Warping Wail
+1	All Is Dust
+1	Eldrazi Conscription
+2	Endbringer
+1	Kozilek, the Great Distortion
+1	Ulamog, the Ceaseless Hunger
+1	Wastes
+1	Spawning Bed
+1	Walker of the Wastes
+1	Matter Reshaper
+1	Void Winnower

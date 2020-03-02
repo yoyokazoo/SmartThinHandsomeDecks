@@ -48,6 +48,8 @@ Drowned Catacomb
 7 Island
 Glimmervoid
 Mirrodin's Core
+Tezzeret, Agent of Bolas
+Sideboard
 Sword of Light and Shadow
 Go for the Throat
 Annul
@@ -63,4 +65,3 @@ Contagion Clasp
 Deathmark
 Leyline of the Void
 Negate
-Tezzeret, Agent of Bolas

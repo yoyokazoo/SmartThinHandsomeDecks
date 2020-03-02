@@ -1,3 +1,45 @@
-Maindeck:
-
-Sideboard:
+Dark Confidant
+Thoughtseize
+Inquisition of Kozilek
+Gatekeeper of Malakir
+Duress
+Nightveil Specter
+Geralf's Messenger
+Gray Merchant of Asphodel
+Sword of Light and Shadow
+Phyrexian Arena
+Go for the Throat
+Slaughter Pact
+Lifebane Zombie
+Lashwrithe
+Brain Maggot
+Desecration Demon
+Ultimate Price
+Vampire Hexmage
+Demigod of Revenge
+Consume Spirit
+Nykthos, Shrine to Nyx
+Nantuko Shade
+Persecute
+Sickening Shoal
+Deathmark
+Tribute to Hunger
+Barter in Blood
+Corrupt
+Star Compass
+Pharika's Cure
+Oblivion Stone
+Witchbane Orb
+Abyssal Persecutor
+Whip of Erebos
+Disciple of Bolas
+Stillmoon Cavalier
+Curse of Death's Hold
+Infest
+Kagemaro, First to Suffer
+Grasp of Darkness
+Phyrexian Crusader
+Dark Betrayal
+Karn Liberated
+Profane Command
+Smother

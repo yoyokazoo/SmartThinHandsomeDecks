@@ -1,3 +1,28 @@
 Maindeck:
-
-Sideboard:
+4	Quest for the Holy Relic
+4	Erayo, Soratami Ascendant
+4	Memnite
+4	Ornithopter
+4	Signal Pest
+4	Vault Skirge
+4	Glint Hawk
+4	Kor Skyfisher
+4	Faerie Impostor
+4	Mox Opal
+2	Argentum Armor
+1	Umezawa's Jitte
+1	Enlightened Tutor
+4	Seachrome Coast
+4	Darksteel Citadel
+4	Tundra
+3	Scalding Tarn
+1	Inkmoth Nexus
+Sideboard	
+4	Spell Pierce
+3	Enlightened Tutor
+3	Mindbreak Trap
+1	Chill
+1	Tormod's Crypt
+1	Rest in Peace
+1	Pithing Needle
+1	Detention Sphere
