@@ -1,0 +1,53 @@
+1	Swords to Plowshares
+1	Viscera Seer
+2	Avacyn's Pilgrim
+2	Noble Hierarch
+4	Birds of Paradise
+4	Sanguine Shaman
+1	Green Sun's Zenith
+1	Lotus Cobra
+1	Spellskite
+1	Metallic Mimic
+1	Walking Ballista
+1	Dark Confidant
+1	Anafenza, Kin-Tree Spirit
+1	Goblin Rabblemaster
+1	Rishkar, Peema Renegade
+4	Kitchen Finks
+1	Knight of the Reliquary
+1	Phyrexian Ghoul
+1	Eternal Witness
+1	Birthing Pod
+1	Restoration Angel
+1	Acidic Slime
+1	Mikaeus, the Unhallowed
+4	Collected Company
+1	Ancient Tomb
+1	Sacred Foundry
+2	Savannah
+4	Windswept Heath
+3	Marsh Flats
+1	Godless Shrine
+2	Wooded Foothills
+2	Flooded Strand
+1	Bloodstained Mire
+1	Taiga
+1	Bayou
+1	Scrubland
+1	Golgari Rot Farm
+1	Gaea's Cradle
+	
+Sideboard
+2	Thoughtseize
+2	Leyline of the Void
+1	Tarmogoyf
+1	Swords to Plowshares
+1	Winter Orb
+1	Null Rod
+1	Abrupt Decay
+1	Absolute Grace
+1	Absolute Law
+1	Sword of War and Peace
+1	Pithing Needle
+1	Kraul Harpooner
+1	Carnage Tyrant

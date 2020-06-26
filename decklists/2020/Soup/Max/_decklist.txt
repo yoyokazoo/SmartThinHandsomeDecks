@@ -1,0 +1,45 @@
+1	Brainstorm
+4	Opt
+2	Portent
+1	Preordain
+4	Thoughtseize
+1	Inquisition of Kozilek
+2	Spell Pierce
+2	Spell Snare
+1	Force Spike
+1	Dismember
+1	Fatal Push
+4	Delver of Secrets
+2	Go for the Throat
+4	Dark Confidant
+3	Remand
+2	Snapcaster Mage
+2	Cryptic Command
+1	Jace, the Mind Sculptor
+1	Rishadan Port
+1	Wasteland
+1	Wastes
+2	Watery Grave
+1	Underground Sea
+1	Seat of the Synod
+3	Scalding Tarn
+1	Polluted Delta
+2	Misty Rainforest
+1	Flooded Strand
+1	Darkslick Shores
+6	Island
+1	Drowned Catacomb
+	
+Sideboard
+2	Pithing Needle
+1	Negate
+1	Thing in the Ice
+1	Jace's Defeat
+2	Night of Bottom
+1	Vedalken Shackles
+2	Surgical Extraction
+1	Island
+1	Deathmark
+1	Duress
+1	Batterskull
+1	Dismember

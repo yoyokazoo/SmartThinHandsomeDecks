@@ -1,0 +1,46 @@
+3	Knight of the Reliquary
+4	Noble Hierarch
+4	Dark Confidant
+1	Knight of Autumn
+4	Tarmogoyf
+1	Thoughtseize
+4	Duress
+1	Gideon, Ally of Zendikar
+4	Birds of Paradise
+1	Liliana of the Veil
+1	Eternal Witness
+1	Hideous End
+1	Victim of Bite
+1	Thalia, Guardian of Thraben
+1	Thalia, Heretic Cathar
+1	Cataclysm
+1	Swords to Plowshares
+1	Geist of Saint Traft
+1	Elspeth, Knight-Errant
+1	Qasali Pridemage
+1	Tundra
+1	Temple Garden
+2	Bayou
+1	Scrubland
+3	Marsh Flats
+1	Misty Rainforest
+1	Verdant Catacombs
+4	Wasteland
+1	Godless Shrine
+1	Watery Grave
+1	Brushland
+3	Forest
+2	Swamp
+1	Plains
+	
+Sideboard
+1	Scavenger Grounds
+4	Chill
+3	Armageddon
+1	Oblivion Ring
+1	Banishing Light
+1	Path to Exile
+1	Seal of Cleansing
+1	Glen-Elendra Archmage
+1	Trygon Predator
+1	Ray of Revelation

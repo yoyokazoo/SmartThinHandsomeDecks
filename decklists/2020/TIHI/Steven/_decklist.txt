@@ -1,0 +1,24 @@
+4	Eldrazi Mimic
+4	Matter Reshaper
+3	Eldrazi Obligator
+4	Thought-Knot Seer
+3	Juggernaut
+4	Reality Smasher
+1	Lightning Strike
+4	Thoughtseize
+1	Rhystic Lightning
+1	Chimeric Idol
+1	Price of Progress
+3	Sword of Fire and Ice
+1	Sword of Light and Shadow
+2	Mind Stone
+	
+Sideboard
+4	City of Traitors
+2	Scorched Ruins
+1	Tainted Peak
+1	Tainted Wood
+4	Crumbling Vestige
+5	Swamp
+4	Mirrodin's Core
+3	Mountain

@@ -1,0 +1,29 @@
+4	Duress
+4	Tithe
+4	Coldsteel Heart
+4	Gerrard's Verdict
+4	Vindicate
+4	Lingering Souls
+4	Narset Transcendent
+3	Sorin, Lord of Innistrad
+1	Increasing Devotion
+1	Cast Out
+1	Pithing Needle
+2	Gideon of the Trials
+1	Oboro, Palace in the Clouds
+1	Undiscovered Paradise
+1	Boreal Shelf
+3	Irrigated Farmland
+1	Scattered Groves
+4	Caves of Koilos
+4	Swamp
+9	Plains
+	
+Sideboard
+2	Pithing Needle
+4	Deathmark
+1	Desolation Angel
+2	Ultimate Price
+3	Ray of Revelation
+1	Gideon's Intervention
+2	Cast Out

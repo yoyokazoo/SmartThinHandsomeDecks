@@ -1,0 +1,49 @@
+1	Aethersphere Harvester
+1	Arid Mesa
+4	Birds of Paradise
+3	Brainstorm
+1	Breeding Pool
+1	Chameleon Colossus
+2	Flooded Strand
+3	Forest
+1	Geist of Saint Traft
+1	Hallowed Fountain
+2	Island
+1	Karn, Scion of Urza
+2	Kitchen Finks
+2	Llanowar Elves
+2	Mana Leak
+1	Mana Tithe
+2	Marsh Flats
+1	Mirror Entity
+2	Noble Hierarch
+2	Path to Exile
+1	Plains
+1	Polluted Delta
+1	Porcelain Legionnaire
+1	Restoration Angel
+1	Savannah
+1	Scalding Tarn
+3	Serum Visions
+4	Snapcaster Mage
+2	Sword of Fire and Ice
+1	Sword of Light and Shadow
+3	Swords to Plowshares
+1	Temple Garden
+1	Verdant Catacombs
+1	Wasteland
+1	Windswept Heath
+2	Wooded Foothills
+	
+Sideboard
+2	Chameleon Colossus
+1	Coalition Relic
+2	Ground Seal
+1	Karn Liberated
+1	Lifeforce
+2	Naturalize
+1	Nullhide Ferox
+2	Seasinger
+1	Skysovereign, Consul Flagship
+1	Spellskite
+1	Wurmcoil Engine

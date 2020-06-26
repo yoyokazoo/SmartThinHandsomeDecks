@@ -1,0 +1,63 @@
+1	Bitterblossom
+1	Search for Azcanta
+1	Jace, Vryn's Prodigy
+1	Snapcaster Mage
+1	Snapcaster Mage
+1	Snapcaster Mage
+1	Baleful Strix
+1	Geist of Saint Traft
+1	Vendilion Clique
+1	Lingering Souls
+1	Liliana, the Last Hope
+2	Nahiri, the Harbinger
+1	Teferi, Hero of Dominaria
+1	Elspeth, Sun's Champion
+1	Emrakul, the Promised End
+1	Emrakul, the Aeons Torn
+2	Inquisition of Kozilek
+3	Thoughtseize
+1	Collective Brutality
+1	Supreme Verdict
+1	Lightning Helix
+2	Swords to Plowshares
+1	Fatal Push
+1	Disrupt
+2	Remand
+1	Spell Snare
+1	Evasive Action
+2	Counterspell
+	
+1	Celestial Colonnade
+1	City of Brass
+1	Sacred Foundry
+1	Scrubland
+1	Godless Shrine
+1	Watery Grave
+1	Badlands
+1	Temple Garden
+1	Breeding Pool
+1	Urborg, Tomb of Yawgmoth
+1	Polluted Delta
+2	Marsh Flats
+1	Bloodstained Mire
+1	Flooded Strand
+2	Verdant Catacombs
+1	Wasteland
+2	Swamp
+4	Island
+1	Plains
+
+Sideboard	
+1	Crucible of Worlds
+2	Tormod's Crypt
+1	Wall of Omens
+1	Ancient Grudge
+1	Flame Slash
+1	Dimir Aqueduct
+1	Settle the Wreckage
+1	Animate Dead
+1	Sundering Growth
+1	Spell Pierce
+1	Perish
+2	Timely Reinforcements
+1	Condemn

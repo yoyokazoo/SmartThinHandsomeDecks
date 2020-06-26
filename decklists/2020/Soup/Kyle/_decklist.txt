@@ -1,0 +1,45 @@
+4	Pelt Collector
+1	Noble Hierarch
+1	Llanowar Elves
+1	Fyndhorn Elves
+2	Smuggler's Copter
+1	Walking Ballista
+1	Grim Flayer
+1	Lotleth Troll
+1	Stormblood Berserker
+1	Scavenging Ooze
+2	Tireless Tracker
+4	Goblin Rabblemaster
+3	Umezawa's Jitte
+4	Duress
+3	Lightning Bolt
+3	Cabal Therapy
+2	Assassin's Trophy
+1	Abrupt Decay
+1	Gut Shot
+4	Bayou
+4	Wasteland
+2	Stomping Ground
+2	City of Brass
+1	Bloodstained Mire
+1	Polluted Delta
+1	Woodland Cemetery
+1	Wooded Foothills
+1	Verdant Catacombs
+1	Blood Crypt
+1	Auntie's Hovel
+1	Riptide Laboratory
+1	Marsh Flats
+1	Cavern of Souls
+1	Overgrown Tomb
+
+4	Warren Weirding
+2	Naturalize
+2	Relic of Progenitus
+1	Collective Brutality
+1	Diabolic Edict
+1	Cabal Therapy
+1	Fatal Push
+1	Grim Lavamancer
+1	Nature's Claim
+1	Red Elemental Blast

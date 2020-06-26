@@ -1,0 +1,41 @@
+1	Wayfarer's Bauble
+1	Engineered Explosives
+1	Conjurer's Bauble
+4	Dimir Signet
+1	Golgari Signet
+4	Remand
+1	Memory Lapse
+1	Last Gasp
+1	Night's Whisper
+1	Merchant Scroll
+2	Trinket Mage
+4	Compulsive Research
+4	Damnation
+1	Nightmare Void
+1	Ravenous Chupacabra
+2	Body Double
+2	Tamiyo the Moon Sage
+2	Aeon Chronicler
+1	Opportunity
+2	Griselbrand
+4	Dimir Aqueduct
+4	Watery Grave
+1	Faerie Conclave
+1	Urborg, Tomb of Yawgmoth
+1	Evolving Wilds
+1	Cavern of Souls
+1	Arch of Orazca
+5	Swamp
+5	Island
+	
+Sideboard
+1	Engineered Explosives
+4	Dark Confidant
+1	Appetite for Brains
+1	Headstone
+2	Moment of Craving
+1	Homicidal Seclusion
+1	Venarian Glimmer
+2	Negate
+1	Nezahal, Primal Tide
+1	Imp's Mischief

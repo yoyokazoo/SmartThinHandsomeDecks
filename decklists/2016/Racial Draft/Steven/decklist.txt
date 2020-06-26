@@ -1,5 +1,5 @@
 4	Viscera Seer
-4	Quirion Ranger
+4	Quirion Fanger
 1	Bloodthrone Vampire
 4	Sanguine Shaman
 4	Bloodsmith
@@ -8,7 +8,7 @@
 1	Kalastria Highborn
 1	Vampire Nocturnus
 4	Urge to Feed
-2	Feast of Blood
+2	Feast for Blood
 4	Nameless Inversion
 1	Captivating Vampire
 1	Bloodline Keeper
