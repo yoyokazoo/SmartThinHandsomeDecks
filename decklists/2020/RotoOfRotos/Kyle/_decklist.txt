@@ -69,3 +69,7 @@ Dungeon Geists
 Scavenging Ooze
 
 Concentrate
+
+7 Island
+7 Forest
+2 Plains

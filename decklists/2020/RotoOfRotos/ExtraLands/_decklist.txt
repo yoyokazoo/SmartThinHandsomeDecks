@@ -1,0 +1,5 @@
+5 Plains
+5 Island
+5 Swamp
+5 Forest
+5 Mountain

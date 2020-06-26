@@ -69,3 +69,7 @@ Gravecrawler
 Trading Post
 
 Braids, Cabal Minion
+
+10 Swamp
+3 Forest
+3 Plains

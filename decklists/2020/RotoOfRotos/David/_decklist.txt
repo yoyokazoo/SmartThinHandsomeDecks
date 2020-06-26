@@ -69,3 +69,7 @@ Faithless Looting
 Negate
 
 Mossfire Valley
+
+7 Mountain
+7 Island
+2 Forest

@@ -69,3 +69,7 @@ Evolving Wilds
 Ratchet Bomb
 
 Firebolt
+
+10 Mountain
+3 Plains
+3 Forest

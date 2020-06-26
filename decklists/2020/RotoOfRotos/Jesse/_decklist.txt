@@ -69,3 +69,9 @@ Divination
 Glimpse the Future
 
 Careful Study
+
+9 Island
+4 Swamp
+1 Plains
+1 Mountain
+1 Forest
