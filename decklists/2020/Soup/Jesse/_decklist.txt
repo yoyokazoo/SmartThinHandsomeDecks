@@ -41,6 +41,6 @@ Sideboard
 1	Banishing Light
 1	Path to Exile
 1	Seal of Cleansing
-1	Glen-Elendra Archmage
+1	Glen Elendra Archmage
 1	Trygon Predator
 1	Ray of Revelation

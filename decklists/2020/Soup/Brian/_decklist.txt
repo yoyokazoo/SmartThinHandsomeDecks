@@ -15,7 +15,7 @@
 1	Serum Visions
 4	Remand
 1	Umezawa's Jitte
-1	Discovery//Dispersal
+1	Discovery // Dispersal
 1	Rakdos Cackler
 1	Think Twice
 1	Thought Scour
@@ -31,7 +31,7 @@
 1	Drowned Catacomb
 
 Sideboard
-1	Emrakul, the Aeon's Torn
+1	Emrakul, the Aeons Torn
 2	Spell Snare
 2	Tasigur, the Golden Fang
 1	Darkblast

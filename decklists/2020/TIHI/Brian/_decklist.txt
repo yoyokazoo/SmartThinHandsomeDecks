@@ -11,7 +11,7 @@
 1	Mindless Automaton
 2	Fatal Push
 1	Parallax Wave
-1	Elspeth, Knight Errant
+1	Elspeth, Knight-Errant
 1	Seal of Cleansing
 4	Hardened Scales
 2	Wooded Foothills

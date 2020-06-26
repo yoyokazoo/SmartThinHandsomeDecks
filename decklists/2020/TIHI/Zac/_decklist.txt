@@ -14,7 +14,7 @@
 1	Nightmare Void
 1	Ravenous Chupacabra
 2	Body Double
-2	Tamiyo the Moon Sage
+2	Tamiyo, the Moon Sage
 2	Aeon Chronicler
 1	Opportunity
 2	Griselbrand

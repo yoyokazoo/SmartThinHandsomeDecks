@@ -1,7 +1,7 @@
 4	Experiment One
 4	Legion Loyalist
 1	Twinblade Slasher
-4	Burning Tree Emissary
+4	Burning-Tree Emissary
 4	Earthshaker Khenra
 2	Resilient Khenra
 4	Yasova Dragonclaw
