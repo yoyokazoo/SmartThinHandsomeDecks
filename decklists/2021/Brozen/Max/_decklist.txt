@@ -1,0 +1,26 @@
+2 Trusty Machete
+3 Maul of the Skyclaves
+3 Steppe Lynx
+3 Student of Warfare
+3 Kor Duelist
+3 Expedition Envoy
+3 Stoneforge Mystic
+3 Luminarch Aspirant
+3 Stone Haven Outfitter
+3 Kazandu Blademaster
+3 Skyclave Apparition
+3 Brave the Elements
+3 Marsh Flats
+3 Arid Mesa
+17 Plains
+2 Gideon, Ally of Zendikar
+
+Sideboard
+1 Basilisk Collar
+3 Kor Firewalker
+3 Devout Lightcaster
+2 Linvala, Keeper of Silence
+2 Journey to Nowhere
+2 Gideon Jura
+1 Gideon, Ally of Zendikar
+1 Day of Judgment

@@ -1,0 +1,49 @@
+1 Time Walk
+1 Timetwister
+1 Serendib Efreet
+1 Black Vise
+1 Psionic Blast
+1 Llanowar Elves
+1 Erhnam Djinn
+1 Tropical Island
+1 Elves of Deep Shadow
+1 Blue Elemental Blast
+1 Bayou
+1 Underground Sea
+1 Gloom
+1 Crumble
+1 Berserk
+1 Scavenger Folk
+1 Unsummon
+1 Hurricane
+1 Ifh-Biff Efreet
+1 Air Elemental
+1 Ice Storm
+1 Pendelhaven
+1 Psychic Purge
+1 Storm Seeker
+1 Land Equilibrium
+1 Unstable Mutation
+1 Dandan
+1 Ghost Ship
+1 Giant Growth
+1 Flood
+1 Flying Men
+1 Wall of Air
+1 Sindbad
+1 Mana Vortex
+1 Scryb Sprites
+1 Concordant Crossroads
+1 Elvish Archers
+1 Spitting Slug
+1 Clone
+1 Time Vault
+1 Living Plane
+1 Phantasmal Forces
+1 Tracker
+1 Cat Warriors
+1 Mana Short
+
+10 Forest
+10 Island
+2 Swamp

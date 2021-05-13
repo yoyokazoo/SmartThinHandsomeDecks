@@ -1,0 +1,30 @@
+2	Bloodchief's Thirst
+3	Brightclimb Pathway
+3	Consuming Vapors
+3	Day of Judgment
+3	Disfigure
+2	Everflowing Chalice
+3	Evolving Wilds
+3	Gideon Jura
+3	Gideon, Ally of Zendikar
+3	Inquisition of Kozilek
+2	Linvala, the Preserver
+3	Marsh Flats
+3	Nighthawk Scavenger
+3	Ob Nixilis Reignited
+	
+8	Plains
+3	Shambling Vent
+1	Soul Shatter
+6	Swamp
+3	Wall of Omens
+	
+Sideboard	
+1	Disenchant (ZNR)
+3	Kalitas, Traitor of Ghet
+2	Luminarch Ascension
+3	Nullpriest of Oblivion
+1	Perimeter Captain
+2	Shadows' Verdict
+1	Transgress the Mind
+2	World Queller

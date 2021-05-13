@@ -1,0 +1,27 @@
+4	Llanowar Elves	(DOM)
+1	Shalai, Voice of Plenty	(DOM)
+1	Den Protector	(DTK)
+4	Collected Company	(DTK)
+4	Elvish Mystic	(M14)
+3	Scavenging Ooze	(M14)
+4	Archangel of Thune	(M14)
+4	Alseid of Life's Bounty	(THB)
+2	Daxos, Blessed by the Sun	(THB)
+4	Heliod, Sun-Crowned	(THB)
+4	Spike Feeder	(TSB)
+		
+4	Temple of Plenty	(THB)
+2	Pendelhaven	(TSB)
+9	Forest	
+5	Plains	
+4	Canopy Vista	(BFZ)
+1	Evolving Wilds	(BFZ)
+		
+Sideboard		
+2	Destiny Spinner	(THB)
+3	Gideon, ally of Zendikar	(BFZ)
+2	Dromoka's Command	(DTK)
+2	Harmonic Sliver	(TSP)
+3	Elspeth, Sun's Nemesis	(THB)
+1	Shalai, Voice of Plenty	(DOM)
+2	Banishing Light	(THB)

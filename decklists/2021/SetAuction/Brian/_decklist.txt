@@ -1,0 +1,26 @@
+4	Vexing Devil	(AVR)
+4	Pillar of Flame	(AVR)
+2	Hellspark Elemental	(CON)
+1	Quenchable Fire	(CON)
+1	Barbed Lightning	(DST)
+1	Pulse of the Forge	(DST)
+4	Flame Javelin	(SHM)
+4	Tattermunge Maniac	(SHM)
+4	Figure of Destiny	(EVE)
+1	Flame Jab	(EVE)
+4	Fireblast	(VIS)
+1	Viashino Sandstalker	(VIS)
+4	Price of Progress	(EXO)
+1	Sonic Burst	(EXO)
+1	Monstrous Carabid	(ARB)
+1	Deadshot Minotaur	(ARB)
+		
+22	Mountain	
+		
+Sideboard		
+1	Flame Jab	(EVE)
+4	Smash to Smithereens	(SHM)
+2	Hellspark Elemental	(CON)
+3	Boggart Ram-Gang	(SHM)
+4	Bonfire of the Damned	(AVR)
+1	Pulse of the Forge	(DST)

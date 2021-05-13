@@ -1,0 +1,28 @@
+3	Vampire Lacerator
+3	Guul Draz Assassin
+3	Pulse Tracker
+3	Inquisition of Kozilek
+3	Bloodchief's Thirst
+3	Gatekeeper of Malakir
+1	Malakir Blood-Priest
+3	Kalastria Highborn
+3	Bloodghast
+2	Urge to Feed
+3	Drana, Liberator of Malakir
+3	Nighthawk Scavenger
+3	Malakir Bloodwitch
+3	Agadeem's Awakening
+2	Hagra Broodpit
+2	Malakir Rebirth
+2	Pelakka Predation
+3	Marsh Flats
+3	Verdant Catacombs
+9	Swamp
+	
+Sideboard	
+3	Vampire Nighthawk
+2	Feast of Blood
+3	Consuming Vapors
+3	Disfigure
+2	Mind Sludge (ZEN)
+2	Transgress the Mind

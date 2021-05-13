@@ -1,0 +1,32 @@
+3	Joraga Treespeaker
+3	Explore
+3	Everflowing Chalice
+3	Tangled Florahedron
+3	Growth Spasm
+3	Oracle of Mul Daya
+2	Vastwood Surge
+3	Summoning Trap
+3	Turntimber Symbiosis
+3	Avenger of Zendikar
+2	Moraug, Fury of Akoum
+1	Kozilek, Butcher of Truth
+3	Ulamog, the Infinite Gyre
+2	Ulamog, the Ceaseless Hunger
+1	Shatterskull Smashing
+	
+7	Forest
+3	Cragcrown Pathway
+3	Misty Rainforest
+3	Verdant Catacombs
+2	Cinder Glade
+1	Mountain
+3	Raging Ravine
+	
+Sideboard	
+2	Nature's Claim
+2	Chandra, Flamecaller
+3	All is Dust
+2	Kozilek's Return
+3	Thundering Rebuke
+1	Terastodon
+2	Phylath, World Sculptor

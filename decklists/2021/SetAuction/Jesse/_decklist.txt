@@ -1,0 +1,31 @@
+1	Opt	(XLN)
+1	Opt	(INV)
+2	Careful Study	(ODY)
+1	Disrupt	(WTH)
+2	Angelic Shield	(INV)
+4	Standstill	(ODY)
+1	Ominous Seas	(IKO)
+1	Withdraw	(PCY)
+1	Arcane Denial	(ALL)
+4	Cast Out	(AKH)
+4	Replenish	(UDS)
+1	Foil	(PCY)
+1	Treachery	(UDS)
+4	Force of Will	(ALL)
+1	Starfield of Nyx	(ORI)
+4	Shark Typhoon	(IKO)
+4	Lay Claim	(AKH)
+		
+4	Glacial Fortress	(XLN)
+1	Evolving Wilds	(ORI)
+1	Gemstone Mine	(WTH)
+12	Island	
+5	Plains	
+		
+Sideboard		
+3	Null Rod	(WTH)
+4	Aether Burst	(ODY)
+2	Aura of Silence	(WTH)
+2	Field of Ruin	(XLN)
+2	Spell Pierce	(XLN)
+2	Negate	(ORI)

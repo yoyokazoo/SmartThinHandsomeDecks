@@ -1,0 +1,30 @@
+3	Eldrazi Monument
+2	Maul of the Skyclaves
+3	Luminarch Aspirant
+3	Arbor Elf
+3	Sylvan Advocate
+3	Scute Swarm
+2	Kazandu Mammoth
+3	Oracle of Mul Daya
+3	Nest Invader
+3	Stoneforge Mystic
+3	Skyclave Apparition
+3	Nissa, Voice of Zendikar
+3	Gideon, Ally of Zendikar
+	
+3	Canopy Vista
+3	Stirring Wildwood
+3	Misty Rainforest
+2	Arid Mesa
+3	Plains
+3	Forest
+3	Verdant Catacombs
+3	Branchloft Pathway
+	
+Sideboard	
+3	Kor Firewalker
+2	Linvala, Keeper of Silence
+2	Nahiri's Binding
+3	Luminarch Ascension
+3	Make a Stand
+2	Naturalize (ROE)

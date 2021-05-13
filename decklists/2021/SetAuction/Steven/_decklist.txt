@@ -1,0 +1,30 @@
+4	Birds of Paradise	(5ED)
+2	Boreal Druid	(CSP)
+3	Llanowar Elves	(5ED)
+4	Lovestruck Beast	(ELD)
+2	Eldrazi Obligator	(OGW)
+4	Bonecrusher Giant	(ELD)
+3	Questing Beast	(ELD)
+4	Thought-Knot Seer	(OGW)
+4	Reality Smasher	(OGW)
+1	Kari-Zev, Skyship Raider	(AER)
+1	Dead // Gone	(PLC)
+3	Embercleave	(ELD)
+1	Shock	(AER)
+1	Simian Spirit Guide	(PLC)
+		
+3	Sulfurous Springs	(5ED)
+4	City of Brass	(5ED)
+1	Mouth of Ronom	(CSP)
+4	Brushland	(5ED)
+4	Karplusan Forest	(5ED)
+2	Snow-Covered Mountain	
+5	Snow-Covered Forest	
+		
+Sideboard		
+3	Earthquake	(5ED)
+2	Return to Nature	(ELD)
+3	Armageddon	(5ED)
+2	Sorcerous Spyglass	(ELD)
+3	Gloom	(5ED)
+2	Incinerate	(5ED)

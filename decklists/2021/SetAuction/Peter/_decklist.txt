@@ -1,0 +1,25 @@
+3	Arc Trail	(SOM)
+1	Cavalier of Gales	(M20)
+4	Cryptic Command	(LRW)
+4	Izzet Signet	(GPT)
+3	Jace Beleren	(LRW)
+2	Outpost Siege	(FRF)
+4	Serum Visions	(5DN)
+3	Spectral Sailor	(M20)
+4	Vedalken Shackles	(5DN)
+3	Wild Slash	(FRF)
+4	Wurmcoil Engine	(SOM)
+4	Izzet Boilerworks	(GPT)
+4	Steam Vents	(GPT)
+16	Island	
+1	Mountain	
+		
+Sideboard		
+2	Acquire	(5DN)
+1	Chandra, Awakened Inferno	(M20)
+1	Gelectrode	(GPT)
+3	Humble Defector	(FRF)
+1	Invoke the Firemind	(GPT)
+2	Grafdigger's Cage	(M20)
+3	Negate	(M20)
+2	Razormane Masticore	(5DN)

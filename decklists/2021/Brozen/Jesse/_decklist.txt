@@ -1,0 +1,30 @@
+3	Expedition Envoy
+3	Hada Freeblade
+3	Burst Lightning
+3	Flame Slash
+3	Akoum Battlesinger
+3	Kazandu Blademaster
+3	Weapons Trainer
+3	Kor Castigator
+3	Kabira Evangel
+3	Reckless Bushwhacker
+2	Firemantle Mage
+2	Maul of the Skyclaves
+2	Goblin Freerunner
+3	Gideon, Ally of Zendikar
+2	Shatterskull Smashing
+	
+3	Ally Encampment
+3	Arid Mesa
+3	Needleverge Pathway
+3	Mountain
+7	Plains
+	
+Sideboard	
+3	Ondu Cleric
+2	Searing Blaze
+3	Tuktuk Scrapper
+1	Oust
+1	Firemantle Mage
+3	Mark of Mutiny
+2	Linvala, Keeper of Silence

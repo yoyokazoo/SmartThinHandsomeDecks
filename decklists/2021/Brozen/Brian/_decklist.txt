@@ -1,0 +1,31 @@
+3	Agadeem's Awakening
+3	Kazandu Mammoth
+3	Bloodchief's Thirst
+3	Inquisition of Kozilek
+3	Explore
+3	Vampire Hexmage
+3	Harrow (ZEN)
+3	Scute Swarm
+3	Grakmaw, Skyclave Ravager
+2	Nissa of Shadowed Boughs
+2	Oracle of Mul Daya
+3	Ashaya, Soul of the Wild
+1	Ob Nixilis, the Fallen
+2	Ancient Greenwarden
+1	Greenwarden of Murasa
+2	Avenger of Zendikar
+3	Turntimber Symbiosis
+1	Hagra Mauling
+
+3	Hissing Quagmire
+3	Verdant Catacombs
+3	Forest
+7	Swamp
+
+Sideboard
+3	Jaddi Offshoot
+2	Nullpriest of Oblivion
+3	Disfigure
+3	Marsh Casualties
+2	Swarm Shambler
+2	Mind Sludge (ZEN)
